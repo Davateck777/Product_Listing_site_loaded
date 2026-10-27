@@ -1,0 +1,235 @@
+/* ==========================================================
+   SITE STYLES
+   Shared layout, product cards, pricing controls, responsive
+   image grids and print styles. All resources are local.
+   ========================================================== */
+
+/* Styling for * */
+* {
+  box-sizing:border-box}
+/* Styling for body */
+body {
+  margin:0;
+  background:#f2f5f4;
+  color:#192c2a;
+  font:15px/1.6 system-ui,sans-serif}
+/* Styling for header */
+header {
+  background:#102e2b;
+  color:white;
+  padding:48px max(5vw,24px)}
+/* Styling for h1 */
+h1 {
+  font-size:clamp(30px,5vw,54px);
+  line-height:1.12;
+  margin:12px 0}
+/* Styling for header p */
+header p {
+  color:#bbd3ce;
+  max-width:760px}
+/* Styling for .eyebrow */
+.eyebrow {
+  letter-spacing:3px;
+  font-size:12px;
+  color:#91dfbc}
+/* Styling for main */
+main {
+  max-width:1200px;
+  margin:auto;
+  padding:24px}
+/* Styling for .panel,article */
+.panel,article {
+  background:white;
+  border:1px solid #dae3df;
+  border-radius:16px;
+  padding:24px;
+  margin-bottom:24px}
+/* Styling for .notice */
+.notice {
+  background:#fff8df;
+  border-left:4px solid #cc9d24;
+  padding:18px;
+  margin:20px 0}
+/* Styling for .controls */
+.controls {
+  display:flex;
+  gap:18px;
+  flex-wrap:wrap}
+/* Styling for input */
+input {
+  width:130px;
+  padding:9px;
+  border:1px solid #b8cac2;
+  border-radius:6px}
+/* Styling for button */
+button {
+  background:#16664c;
+  color:white;
+  border:0;
+  border-radius:7px;
+  padding:12px 18px;
+  cursor:pointer}
+/* Styling for label */
+label {
+  font-size:12px;
+  color:#48645a}
+/* Styling for h2 */
+h2 {
+  font-size:25px;
+  margin:8px 0 12px}
+/* Styling for h3 */
+h3 {
+  font-size:15px;
+  text-transform:uppercase;
+  letter-spacing:1px;
+  margin-top:22px}
+/* Styling for .product */
+.product {
+  display:grid;
+  grid-template-columns:230px 1fr;
+  gap:30px}
+/* Styling for .hero */
+.hero {
+  width:100%;
+  aspect-ratio:1;
+  object-fit:contain;
+  background:#fff;
+  border-radius:10px}
+/* Styling for .badge */
+.badge {
+  display:inline-block;
+  background:#eaf4ee;
+  color:#276248;
+  padding:3px 10px;
+  border-radius:20px;
+  font-size:11px;
+  font-weight:700}
+/* Styling for .metrics */
+.metrics {
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:12px;
+  margin:20px 0}
+/* Styling for .metric */
+.metric {
+  background:#f3f7f4;
+  padding:12px;
+  border-radius:8px}
+/* Styling for .metric b */
+.metric b {
+  display:block;
+  font-size:21px}
+/* Styling for .metric small */
+.metric small {
+  color:#65756c}
+/* Styling for a */
+a {
+  color:#17664d;
+  overflow-wrap:anywhere}
+/* Styling for summary */
+summary {
+  cursor:pointer;
+  font-weight:600}
+/* Styling for details */
+details {
+  border-top:1px solid #dde5df;
+  padding-top:14px;
+  margin-top:16px}
+/* Styling for .url */
+.url {
+  font:12px/1.5 monospace;
+  overflow-wrap:anywhere;
+  background:#f5f7f5;
+  padding:8px}
+/* Styling for table */
+table {
+  width:100%;
+  border-collapse:collapse;
+  font-size:13px}
+/* Styling for td,th */
+td,th {
+  text-align:left;
+  padding:10px;
+  border-bottom:1px solid #dde5df}
+/* Styling for .muted */
+.muted {
+  color:#61756b;
+  font-size:13px}
+/* Styling for .econ */
+.econ {
+  color:#986717}
+/* Styling for .num */
+.num {
+  color:#608274;
+  font-size:12px;
+  font-weight:bold}
+/* Styling for footer */
+footer {
+  padding:20px;
+  color:#61756b}
+/* Styling for @media(max-width:700px) */
+@media(max-width:700px) {
+  .product {
+  grid-template-columns:1fr}
+/* Styling for .hero */
+.hero {
+  max-width:240px}
+/* Styling for .metrics */
+.metrics {
+  grid-template-columns:1fr 1fr}
+/* Styling for .panel,article */
+.panel,article {
+  padding:18px}
+/* Styling for main */
+main {
+  padding:14px}
+/* Styling for table */
+table {
+  font-size:11px}
+}
+/* Styling for @media print */
+@media print {
+  button,.controls {
+  display:none}
+/* Styling for article */
+article {
+  break-inside:avoid}
+/* Styling for body */
+body {
+  background:white}
+}
+
+/* Styling for .team-gallery */
+.team-gallery {
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+  gap:12px;
+  margin-top:20px}
+/* Styling for .team-gallery img */
+.team-gallery img {
+  width:100%;
+  height:210px;
+  object-fit:contain;
+  background:#f4f6f5;
+  border:1px solid #dde5df;
+  border-radius:8px}
+
+/* Styling for .team-gallery */
+.team-gallery {
+  grid-template-columns:repeat(auto-fit,minmax(190px,1fr));
+  align-items:start}
+/* Styling for .team-gallery img */
+.team-gallery img {
+  height:240px;
+  object-fit:contain}
+/* Styling for .team-gallery figure */
+.team-gallery figure {
+  min-width:0}
+/* Styling for @media(max-width:550px) */
+@media(max-width:550px) {
+  .team-gallery {
+  grid-template-columns:repeat(2,minmax(0,1fr))}
+/* Styling for .team-gallery img */
+.team-gallery img {
+  height:180px}
+}
