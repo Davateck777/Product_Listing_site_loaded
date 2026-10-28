@@ -64,11 +64,14 @@ Each Product Details section identifies its basis (attributes, packing, readable
 Source prices, base shipping, Jumia evidence and retail proposals were not changed in this step. Main-image-only policy and author DAVE ADEX are retained.
 
 ### Optimal-long Product Details — current presentation
-Each card now presents a multi-paragraph English description, with 150–200 words
+Each card now presents a simple, consumer-facing, multi-paragraph English description, with 150–200 words
 for each of the 38 readable supplier listings. T70 (#27) and the Jisiyuan vertical
 mouse (#34) remain shorter, clearly marked provisional descriptions because their
 supplier pages returned CAPTCHA. Copy was expanded only from previously extracted
-supplier text, not from Jumia or unrelated products. No fresh page recheck is claimed.
+supplier text, not from Jumia or unrelated products. No fresh page recheck is claimed. The tone is Simple and the audience is Consumers.
+Copy explains uses, connections, choices and relevant limits without freight, MOQ,
+factory codes, certification numbers or reseller terms dominating the description.
+Research and supplier conflicts remain available in the expandable specifications.
 
 The complete structured extraction and verification notes remain expandable on every
 card. `description` contains the long text; `brief_description` preserves the earlier
