@@ -1,1067 +1,791 @@
-<!doctype html>
+<!DOCTYPE html>
+
 <html lang="en">
- <head>
- </head>
- <body>
-  <html lang="en">
-   <meta charset="utf-8"/>
-   <meta content="width=device-width,initial-scale=1" name="viewport"/>
-   <title>
+<head>
+<meta content="DAVE ADEX" name="author"/></head>
+<body>
+<html lang="en">
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>
     Electronics Product Hunt · Team Handoff
    </title>
-   <link href="assets/css/styles.css" rel="stylesheet"/>
-   <!-- PAGE HEADER: Project identity and draft status -->
-   <header>
-    <div class="eyebrow">
+<link href="assets/css/styles.css" rel="stylesheet"/>
+<!-- PAGE HEADER: Project identity and draft status -->
+<header>
+<div class="eyebrow">
      1688 → NIGERIA / CURATED PROCUREMENT
     </div>
-    <h1>
+<h1>
      Electronics product hunt.
      <br/>
      Team-ready shortlist.
     </h1>
-    <p>
+<p>
      Five sourcing records with Product Details, image URLs, pricing comparisons and clear verification flags. Ready for team review—not automatic retail publication.
     </p>
-    <span class="badge">
+<span class="badge">
      RESEARCHED 27 OCTOBER 2026 · DRAFT / NOT PUBLISHED
     </span>
-   </header>
-   <!-- MAIN CONTENT: Team queue, batch controls and five product records -->
-   <main>
-    <!-- INFORMATION SECTION: Team handoff · verification queue -->
-    <section class="panel">
-     <h2>
-      Team handoff · verification queue
-     </h2>
-     <p>
-      P9: user-supplied specifications and 10 image URLs added. First supplied image is the provisional main image. Other four products: existing supplier main thumbnails retained; support galleries still missing. No images have been copied between products. Prices are carried forward from the original research, not newly revalidated.
-     </p>
-     <p>
-      Before publishing: confirm exact offer and variant, current quote and MOQ, packed weight, landed costs, certificate scope and image rights. Missing galleries do not prevent team research handoff but remain a publishing blocker.
-     </p>
-    </section>
-    <!-- INFORMATION SECTION: Batch overrides -->
-    <section class="panel">
-     <h2>
+<p class="author-credit">AUTHOR · DAVE ADEX</p></header>
+<!-- MAIN CONTENT: Team queue, batch controls and five product records -->
+<main>
+<!-- INFORMATION SECTION: Team handoff · verification queue -->
+<section class="panel"><h2>Daily hunting queue · 40 products per day</h2><p>AUTHOR: DAVE ADEX · Current batch: 5 products in Day 1 (5 / 40 capacity). Each day holds up to 40 products. Main images only; all support images have been removed for this session. No additional products have been invented.</p></section>
+<!-- INFORMATION SECTION: Batch overrides -->
+<section class="panel">
+<h2>
       Batch overrides
      </h2>
-     <p>
+<p>
       Interpretation: “Price (¥) override” is a
       <b>
        per-product sourcing-cost override
       </b>
       , not a retail price or exchange rate. Suggested value = max(source price, ¥5.20). Original source prices remain unchanged. Shipping override replaces, rather than adds to, the ₦5,000 base shipping fee.
      </p>
-     <div class="controls">
-      <label>
+<div class="controls">
+<label>
        Global source floor (¥)
        <br/>
-       <input id="floor" min="5.2" step="0.01" type="number" value="5.2"/>
-      </label>
-      <label>
+<input id="floor" min="5.2" step="0.01" type="number" value="5.2"/>
+</label>
+<label>
        Shipping override (₦)
        <br/>
-       <input id="ship" min="2000" step="100" type="number" value="5000"/>
-      </label>
-      <label>
+<input id="ship" min="2000" step="100" type="number" value="5000"/>
+</label>
+<label>
        CNY → NGN rate (your actual rate)
        <br/>
-       <input id="fx" min="0.01" placeholder="Enter rate" step="0.01" type="number"/>
-      </label>
-      <button onclick="apply()">
+<input id="fx" min="0.01" placeholder="Enter rate" step="0.01" type="number"/>
+</label>
+<button onclick="apply()">
        Apply &amp; recalculate
       </button>
-      <button onclick="download()">
+<button onclick="download()">
        Export listing JSON
       </button>
-     </div>
-     <div class="notice">
-      <b>
+</div>
+<div class="notice">
+<b>
        Before using this commercially:
       </b>
       1688 prices are displayed card prices, not confirmed variant quotes. MOQ, stock, domestic freight, taxes, import charges and handling are unverified. Jumia prices exclude delivery and may change; comparisons are model-family or functional matches, not identical-SKU guarantees. No live exchange rate has been assumed.
      </div>
-     <p class="muted">
-      No Inspect-Browser tool was available. Original main-image URLs were extracted from accessible 1688 HTML. P9 now uses 10 image URLs supplied by the user from a rendered product page; its exact offer association remains to be confirmed. The other four supplier support galleries remain unverified. Embedded images work offline where downloads succeeded. Obtain image rights before retail use.
-     </p>
-    </section>
-    <!-- PRODUCT RECORD: P9 Pro Max Wireless Over-Ear Headphones — details, pricing and image gallery -->
-    <article id="p0">
-     <!-- PRODUCT IDENTITY: Main thumbnail, name, category and Product Details -->
-     <div class="product">
-      <div>
-       <img alt="P9 Pro Max Wireless Over-Ear Headphones" class="hero" src="assets/images/product-image-01.webp"/>
-       <p class="muted">
+<p class="muted">Main-image URLs are retained with each source record. P9 uses the first user-supplied image; the other products retain their original supplier thumbnails. All support and comparison-image galleries have been removed for this session. Exact offer, variant, image rights and current pricing still require verification.</p>
+</section>
+<!-- PRODUCT RECORD: P9 Pro Max Wireless Over-Ear Headphones — details, pricing and image gallery -->
+<!-- DAILY PRODUCT GRID — Maximum 40 records per day; one main image per product. --><section class="day-section" data-day="1"><h2>Day 01 · 5 / 40 products</h2><div class="day-grid"><article id="p0">
+<!-- PRODUCT IDENTITY: Main thumbnail, name, category and Product Details -->
+<div class="product">
+<div>
+<img alt="P9 Pro Max Wireless Over-Ear Headphones" class="hero" src="assets/images/product-image-01.webp"/>
+<p class="muted">
         P9 image set supplied by user · exact offer association pending confirmation.
        </p>
-      </div>
-      <div>
-       <div class="num">
+</div>
+<div>
+<div class="num">
         NEW PRODUCT / 01
        </div>
-       <h2>
+<h2>
         P9 Pro Max Wireless Over-Ear Headphones
        </h2>
-       <span class="badge">
-        Others
-       </span>
-       <span class="badge">
+<span class="badge" title="No original brand established from available source evidence; neutral/unbranded listings use Other.">Other</span>
+<span class="badge">
         ELECTRONICS
        </span>
-       <h3>
+<h3>
         Product Details
        </h3>
-       <p>
+<p>
         P9 Pro Max head-mounted wireless stereo headphones with supplier-stated Bluetooth 5.3 connectivity, a transmission range of up to 10 metres and approximately 4–8 hours of battery life depending on use. The ABS headset supports music playback, calls and supplier-stated voice control; supported commands and device compatibility need confirmation. The supplier identifies a Jerry chipset and an approximate weight of 220 g. Available colours are Black, White, Blue, Red and Green, with “Headband Cotton” and “No Head Cotton” variants; confirm the exact padding and selected configuration before ordering. Not waterproof: keep away from rain and moisture. Listed dimensions are 20 × 20 × 4.5 cm, pending clarification as product or package dimensions. Supplier-stated RoHS reference CISCC240605006V0 and CE reference CISRC240605043 are unverified and should not be advertised as verified certification.
        </p>
-       <!-- PRICING SUMMARY: Source cost, base shipping, Jumia reference and proposed retail -->
-       <div class="metrics">
-        <div class="metric">
-         <small>
+<!-- PRICING SUMMARY: Source cost, base shipping, Jumia reference and proposed retail -->
+<div class="metrics">
+<div class="metric">
+<small>
           Source price
          </small>
-         <b>
+<b>
           ¥10.50
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Base shipping
          </small>
-         <b>
+<b>
           ₦5,000
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Price on Jumia
          </small>
-         <b>
+<b>
           ₦14,000
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Proposed retail
          </small>
-         <b>
+<b>
           ₦11,900
          </b>
-        </div>
-       </div>
-       <p class="muted">
+</div>
+</div>
+<p class="muted">
         Model-family match; colour, included accessories and internal components may differ.
        </p>
-       <p>
-        <a href="https://detail.1688.com/offer/743723090743.html" rel="noopener" target="_blank">
+<p>
+<a href="https://detail.1688.com/offer/743723090743.html" rel="noopener" target="_blank">
          1688 product ↗
         </a>
         ·
         <a href="https://www.jumia.com.ng/generic-extra-bass-original-portable-bluetooth-p9-pro-max-headset-headphone-black-419266766.html" rel="noopener" target="_blank">
          Jumia comparison ↗
         </a>
-       </p>
-      </div>
-     </div>
-     <h3>
+</p>
+</div>
+</div>
+<h3>
       Pricing overrides &amp; commercial proposal
      </h3>
-     <table>
-      <thead>
-       <tr>
-        <th>
+<table>
+<thead>
+<tr>
+<th>
          Source override
         </th>
-        <th>
+<th>
          Shipping override
         </th>
-        <th>
+<th>
          Compare-at proposal
         </th>
-        <th>
+<th>
          Planned discount
         </th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <td class="po">
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="po">
          ¥10.50
         </td>
-        <td class="so">
+<td class="so">
          ₦5,000
         </td>
-        <td>
+<td>
          ₦12,900
         </td>
-        <td>
+<td>
          7.8%
         </td>
-       </tr>
-      </tbody>
-     </table>
-     <p class="econ">
+</tr>
+</tbody>
+</table>
+<p class="econ">
       Enter your actual exchange rate above to test cost viability.
      </p>
-     <h3>
-      Main + Support Images · Full Gallery
-     </h3>
-     <!-- IMAGE GRID: Main image followed by available support images; always visible -->
-     <div class="team-gallery">
-      <figure style="margin:0">
-       <img alt="P9 Pro Max supplied image 1" src="assets/images/product-image-01.webp"/>
-       <figcaption class="muted" style="padding:7px 0;font-weight:600">
-        MAIN IMAGE
-       </figcaption>
-      </figure>
-      <figure style="margin:0">
-       <img alt="P9 Pro Max supplied image 2" src="assets/images/product-image-02.webp"/>
-       <figcaption class="muted" style="padding:7px 0;font-weight:600">
-        SUPPORT IMAGE 1
-       </figcaption>
-      </figure>
-      <figure style="margin:0">
-       <img alt="P9 Pro Max supplied image 3" src="assets/images/product-image-03.webp"/>
-       <figcaption class="muted" style="padding:7px 0;font-weight:600">
-        SUPPORT IMAGE 2
-       </figcaption>
-      </figure>
-      <figure style="margin:0">
-       <img alt="P9 Pro Max supplied image 4" src="assets/images/product-image-04.webp"/>
-       <figcaption class="muted" style="padding:7px 0;font-weight:600">
-        SUPPORT IMAGE 3
-       </figcaption>
-      </figure>
-      <figure style="margin:0">
-       <img alt="P9 Pro Max supplied image 5" src="assets/images/product-image-05.webp"/>
-       <figcaption class="muted" style="padding:7px 0;font-weight:600">
-        SUPPORT IMAGE 4
-       </figcaption>
-      </figure>
-      <figure style="margin:0">
-       <img alt="P9 Pro Max supplied image 6" src="assets/images/product-image-06.webp"/>
-       <figcaption class="muted" style="padding:7px 0;font-weight:600">
-        SUPPORT IMAGE 5
-       </figcaption>
-      </figure>
-      <figure style="margin:0">
-       <img alt="P9 Pro Max supplied image 7" src="assets/images/product-image-07.webp"/>
-       <figcaption class="muted" style="padding:7px 0;font-weight:600">
-        SUPPORT IMAGE 6
-       </figcaption>
-      </figure>
-      <figure style="margin:0">
-       <img alt="P9 Pro Max supplied image 8" src="assets/images/product-image-08.webp"/>
-       <figcaption class="muted" style="padding:7px 0;font-weight:600">
-        SUPPORT IMAGE 7
-       </figcaption>
-      </figure>
-      <figure style="margin:0">
-       <img alt="P9 Pro Max supplied image 9" src="assets/images/product-image-09.webp"/>
-       <figcaption class="muted" style="padding:7px 0;font-weight:600">
-        SUPPORT IMAGE 8
-       </figcaption>
-      </figure>
-      <figure style="margin:0">
-       <img alt="P9 Pro Max supplied image 10" src="assets/images/product-image-10.webp"/>
-       <figcaption class="muted" style="padding:7px 0;font-weight:600">
-        SUPPORT IMAGE 9
-       </figcaption>
-      </figure>
-     </div>
-     <!-- SOURCE EVIDENCE: Expand to review supplier text and original image URLs -->
-     <details>
-      <summary>
-       Source evidence &amp; image URLs · 1 main + 9 support
-      </summary>
-      <p>
-       Manufacturer: Shantou City Chaoyang District Gurao Lexin Electronics Factory
-      </p>
-      <p>
-       Image provenance: 10 image URLs supplied by user from the P9 Pro Max page. First URL assigned as main; remaining nine as support. Exact offer association and usage rights require confirmation.
-      </p>
-      <p>
-       Supplier evidence: 工厂直销跨境爆款P9ProMax无线头戴式蓝牙耳机音乐耳麦重低音耳机 中性 品牌 一件代发 ¥ 10.5 月销2009条 汕头市潮阳区谷饶乐欣电子厂 4 年
-      </p>
-      <p>
-       Main image
-      </p>
-      <div class="url">
-       https://cbu01.alicdn.com/img/ibank/O1CN01Li4jVR1QPqq0fO7OM_!!2216664351969-0-cib.jpg_.webp
-      </div>
-      <p>
-       Support image 1
-      </p>
-      <div class="url">
-       https://cbu01.alicdn.com/img/ibank/O1CN01TBvJ4O1QPqq0fLEZ1_!!2216664351969-0-cib.jpg_.webp
-      </div>
-      <p>
-       Support image 2
-      </p>
-      <div class="url">
-       https://cbu01.alicdn.com/img/ibank/O1CN01Ot8r0K1QPqjfuUtgR_!!2216664351969-0-cib.jpg_.webp
-      </div>
-      <p>
-       Support image 3
-      </p>
-      <div class="url">
-       https://cbu01.alicdn.com/img/ibank/O1CN01EGnoHX1QPqjkNRwpW_!!2216664351969-0-cib.jpg_.webp
-      </div>
-      <p>
-       Support image 4
-      </p>
-      <div class="url">
-       https://cbu01.alicdn.com/img/ibank/O1CN01thxDiY1QPqjemFjxZ_!!2216664351969-0-cib.jpg_.webp
-      </div>
-      <p>
-       Support image 5
-      </p>
-      <div class="url">
-       https://cbu01.alicdn.com/img/ibank/O1CN01fuaKQg1QPqq0fLhdW_!!2216664351969-0-cib.jpg_.webp
-      </div>
-      <p>
-       Support image 6
-      </p>
-      <div class="url">
-       https://cbu01.alicdn.com/img/ibank/O1CN01OUXKga1QPqq3KqLI2_!!2216664351969-0-cib.jpg_.webp
-      </div>
-      <p>
-       Support image 7
-      </p>
-      <div class="url">
-       https://cbu01.alicdn.com/img/ibank/O1CN014sofZk1QPqptqfqTa_!!2216664351969-0-cib.jpg_.webp
-      </div>
-      <p>
-       Support image 8
-      </p>
-      <div class="url">
-       https://cbu01.alicdn.com/img/ibank/O1CN01OEQNqs1QPqpz798NG_!!2216664351969-0-cib.jpg_.webp
-      </div>
-      <p>
-       Support image 9
-      </p>
-      <div class="url">
-       https://cbu01.alicdn.com/img/ibank/O1CN01DMJvPR1QPqpz7Bsqt_!!2216664351969-0-cib.jpg_.webp
-      </div>
-     </details>
-    </article>
-    <!-- PRODUCT RECORD: Dual-Mode Rechargeable Silent Wireless Mouse — details, pricing and image gallery -->
-    <article id="p1">
-     <!-- PRODUCT IDENTITY: Main thumbnail, name, category and Product Details -->
-     <div class="product">
-      <div>
-       <img alt="Dual-Mode Rechargeable Silent Wireless Mouse" class="hero" src="assets/images/product-image-11.jpg"/>
-       <p class="muted">
+<!-- SOURCE EVIDENCE: Expand to review supplier text and original image URLs -->
+<details><summary>Source evidence &amp; main image URL</summary><p>Manufacturer: Shantou City Chaoyang District Gurao Lexin Electronics Factory</p><p>Supplier evidence: 工厂直销跨境爆款P9ProMax无线头戴式蓝牙耳机音乐耳麦重低音耳机 中性 品牌 一件代发 ¥ 10.5 月销2009条 汕头市潮阳区谷饶乐欣电子厂 4 年</p><p>Main image supplied by user; exact offer association and usage rights require confirmation.</p><div class="url">https://cbu01.alicdn.com/img/ibank/O1CN01Li4jVR1QPqq0fO7OM_!!2216664351969-0-cib.jpg_.webp</div></details>
+</article><article id="p1">
+<!-- PRODUCT IDENTITY: Main thumbnail, name, category and Product Details -->
+<div class="product">
+<div>
+<img alt="Dual-Mode Rechargeable Silent Wireless Mouse" class="hero" src="assets/images/product-image-11.jpg"/>
+<p class="muted">
         1688 supplier thumbnail
         <br/>
         Not an inspected sample.
        </p>
-      </div>
-      <div>
-       <div class="num">
+</div>
+<div>
+<div class="num">
         NEW PRODUCT / 02
        </div>
-       <h2>
+<h2>
         Dual-Mode Rechargeable Silent Wireless Mouse
        </h2>
-       <span class="badge">
-        Others
-       </span>
-       <span class="badge">
+<span class="badge" title="No original brand established from available source evidence; neutral/unbranded listings use Other.">Other</span>
+<span class="badge">
         ELECTRONICS
        </span>
-       <h3>
+<h3>
         Product Details
        </h3>
-       <p>
+<p>
         A rechargeable wireless mouse described by the supplier as Bluetooth dual-mode with quiet operation. Intended for everyday browsing, documents and desk work on compatible computers and other supported devices. Its wireless format reduces desk cable clutter. Confirm the second connection mode, receiver inclusion, supported operating systems, charging port and DPI options; do not assume every phone or tablet is compatible.
        </p>
-       <!-- PRICING SUMMARY: Source cost, base shipping, Jumia reference and proposed retail -->
-       <div class="metrics">
-        <div class="metric">
-         <small>
+<!-- PRICING SUMMARY: Source cost, base shipping, Jumia reference and proposed retail -->
+<div class="metrics">
+<div class="metric">
+<small>
           Source price
          </small>
-         <b>
+<b>
           ¥7.20
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Base shipping
          </small>
-         <b>
+<b>
           ₦5,000
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Price on Jumia
          </small>
-         <b>
+<b>
           ₦3,197
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Proposed retail
          </small>
-         <b>
+<b>
           ₦2,990
          </b>
-        </div>
-       </div>
-       <p class="muted">
+</div>
+</div>
+<p class="muted">
         Functional comparable, not an identical model; Jumia lists LED/RGB features not confirmed for the source.
        </p>
-       <p>
-        <a href="https://detail.1688.com/offer/839830225150.html" rel="noopener" target="_blank">
+<p>
+<a href="https://detail.1688.com/offer/839830225150.html" rel="noopener" target="_blank">
          1688 product ↗
         </a>
         ·
         <a href="https://www.jumia.com.ng/generic-led-ultra-thin-wireless-mouse-2.4g-bluetooth-dual-mode-rechargeable-silent-ergonomic-mouse-rgb-mouse-black-419505554.html" rel="noopener" target="_blank">
          Jumia comparison ↗
         </a>
-       </p>
-      </div>
-     </div>
-     <h3>
+</p>
+</div>
+</div>
+<h3>
       Pricing overrides &amp; commercial proposal
      </h3>
-     <table>
-      <thead>
-       <tr>
-        <th>
+<table>
+<thead>
+<tr>
+<th>
          Source override
         </th>
-        <th>
+<th>
          Shipping override
         </th>
-        <th>
+<th>
          Compare-at proposal
         </th>
-        <th>
+<th>
          Planned discount
         </th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <td class="po">
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="po">
          ¥7.20
         </td>
-        <td class="so">
+<td class="so">
          ₦5,000
         </td>
-        <td>
+<td>
          ₦3,290
         </td>
-        <td>
+<td>
          9.1%
         </td>
-       </tr>
-      </tbody>
-     </table>
-     <p class="econ">
+</tr>
+</tbody>
+</table>
+<p class="econ">
       Enter your actual exchange rate above to test cost viability.
      </p>
-     <h3>
-      Main + Support Images · Gallery
-     </h3>
-     <!-- IMAGE GRID: Main image followed by available support images; always visible -->
-     <div class="team-gallery">
-      <figure style="margin:0">
-       <img alt="Dual-Mode Rechargeable Silent Wireless Mouse" src="assets/images/product-image-11.jpg"/>
-       <figcaption class="muted">
-        MAIN IMAGE
-       </figcaption>
-      </figure>
-     </div>
-     <p class="muted">
-      Support images pending verification — no additional supplier images supplied yet.
-     </p>
-     <!-- SOURCE EVIDENCE: Expand to review supplier text and original image URLs -->
-     <details>
-      <summary>
+<!-- SOURCE EVIDENCE: Expand to review supplier text and original image URLs -->
+<details>
+<summary>
        Source evidence &amp; image URLs
       </summary>
-      <p>
-       <b>
+<p>
+<b>
         1688 title:
        </b>
        蓝牙双模无线鼠标可充电静音无声电脑笔记本手机平板通用配件批发
       </p>
-      <p class="muted">
+<p class="muted">
        Observed card: 蓝牙双模无线鼠标可充电静音无声电脑笔记本手机平板通用配件批发 一件代发 48小时发货 ¥ 7.2 月销5702件 东莞市大岭山易鑫诚电子厂 3 年
       </p>
-      <p>
-       <b>
+<p>
+<b>
         Main image URL · 1688
        </b>
-      </p>
-      <div class="url">
+</p>
+<div class="url">
        https://cbu01.alicdn.com/img/ibank/O1CN01J9kbZ61lIA8Ay9LWB_!!2218678174795-0-cib.220x220.jpg
       </div>
-      <p>
-       <b>
-        Support images · 1688:
-       </b>
-       Not available / unverified. No gallery URLs have been invented.
-      </p>
-     </details>
-    </article>
-    <!-- PRODUCT RECORD: X1 Mini Portable Bluetooth Speaker — details, pricing and image gallery -->
-    <article id="p2">
-     <!-- PRODUCT IDENTITY: Main thumbnail, name, category and Product Details -->
-     <div class="product">
-      <div>
-       <img alt="X1 Mini Portable Bluetooth Speaker" class="hero" src="assets/images/product-image-12.jpg"/>
-       <p class="muted">
+</details>
+</article><article id="p2">
+<!-- PRODUCT IDENTITY: Main thumbnail, name, category and Product Details -->
+<div class="product">
+<div>
+<img alt="X1 Mini Portable Bluetooth Speaker" class="hero" src="assets/images/product-image-12.jpg"/>
+<p class="muted">
         1688 supplier thumbnail
         <br/>
         Not an inspected sample.
        </p>
-      </div>
-      <div>
-       <div class="num">
+</div>
+<div>
+<div class="num">
         NEW PRODUCT / 03
        </div>
-       <h2>
+<h2>
         X1 Mini Portable Bluetooth Speaker
        </h2>
-       <span class="badge">
-        Others
-       </span>
-       <span class="badge">
+<span class="badge" title="No original brand established from available source evidence; neutral/unbranded listings use Other.">Other</span>
+<span class="badge">
         ELECTRONICS
        </span>
-       <h3>
+<h3>
         Product Details
        </h3>
-       <p>
+<p>
         A compact X1 wireless Bluetooth speaker advertised for portable home and outdoor listening. Designed as a small-format audio accessory for compatible Bluetooth source devices and easy transport between locations. The supplier markets it as a mini bass speaker; measured acoustic performance is not verified. Confirm charging method, battery capacity, runtime, output power and supplied cable. No waterproof or Bluetooth-version claim is made.
        </p>
-       <!-- PRICING SUMMARY: Source cost, base shipping, Jumia reference and proposed retail -->
-       <div class="metrics">
-        <div class="metric">
-         <small>
+<!-- PRICING SUMMARY: Source cost, base shipping, Jumia reference and proposed retail -->
+<div class="metrics">
+<div class="metric">
+<small>
           Source price
          </small>
-         <b>
+<b>
           ¥4.50
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Base shipping
          </small>
-         <b>
+<b>
           ₦5,000
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Price on Jumia
          </small>
-         <b>
+<b>
           ₦4,768
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Proposed retail
          </small>
-         <b>
+<b>
           ₦3,990
          </b>
-        </div>
-       </div>
-       <p class="muted">
+</div>
+</div>
+<p class="muted">
         X1 name-family comparable on a Jumia collection page; Bluetooth version and hardware are not verified identical.
        </p>
-       <p>
-        <a href="https://detail.1688.com/offer/1064796798911.html" rel="noopener" target="_blank">
+<p>
+<a href="https://detail.1688.com/offer/1064796798911.html" rel="noopener" target="_blank">
          1688 product ↗
         </a>
         ·
         <a href="https://www.jumia.com.ng/mlp-portable-speaker/" rel="noopener" target="_blank">
          Jumia comparison ↗
         </a>
-       </p>
-      </div>
-     </div>
-     <h3>
+</p>
+</div>
+</div>
+<h3>
       Pricing overrides &amp; commercial proposal
      </h3>
-     <table>
-      <thead>
-       <tr>
-        <th>
+<table>
+<thead>
+<tr>
+<th>
          Source override
         </th>
-        <th>
+<th>
          Shipping override
         </th>
-        <th>
+<th>
          Compare-at proposal
         </th>
-        <th>
+<th>
          Planned discount
         </th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <td class="po">
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="po">
          ¥5.20
         </td>
-        <td class="so">
+<td class="so">
          ₦5,000
         </td>
-        <td>
+<td>
          ₦4,290
         </td>
-        <td>
+<td>
          7.0%
         </td>
-       </tr>
-      </tbody>
-     </table>
-     <p class="econ">
+</tr>
+</tbody>
+</table>
+<p class="econ">
       Enter your actual exchange rate above to test cost viability.
      </p>
-     <h3>
-      Main + Support Images · Gallery
-     </h3>
-     <!-- IMAGE GRID: Main image followed by available support images; always visible -->
-     <div class="team-gallery">
-      <figure style="margin:0">
-       <img alt="X1 Mini Portable Bluetooth Speaker" src="assets/images/product-image-12.jpg"/>
-       <figcaption class="muted">
-        MAIN IMAGE
-       </figcaption>
-      </figure>
-     </div>
-     <p class="muted">
-      Support images pending verification — no additional supplier images supplied yet.
-     </p>
-     <!-- SOURCE EVIDENCE: Expand to review supplier text and original image URLs -->
-     <details>
-      <summary>
+<!-- SOURCE EVIDENCE: Expand to review supplier text and original image URLs -->
+<details>
+<summary>
        Source evidence &amp; image URLs
       </summary>
-      <p>
-       <b>
+<p>
+<b>
         1688 title:
        </b>
        跨境爆款X1无线蓝牙音响便携式家用户外低音炮迷你小音箱礼品厂家
       </p>
-      <p class="muted">
+<p class="muted">
        Observed card: 跨境爆款X1无线蓝牙音响便携式家用户外低音炮迷你小音箱礼品厂家 48小时发货 ¥ 4.5 月销5796件 东莞市长安悦风浪音电子厂 1 年
       </p>
-      <p>
-       <b>
+<p>
+<b>
         Main image URL · 1688
        </b>
-      </p>
-      <div class="url">
+</p>
+<div class="url">
        https://cbu01.alicdn.com/img/ibank/O1CN01m9f8781Kv6KhXuTan_!!2222364471225-0-cib.220x220.jpg
       </div>
-      <p>
-       <b>
-        Support images · 1688:
-       </b>
-       Not available / unverified. No gallery URLs have been invented.
-      </p>
-     </details>
-    </article>
-    <!-- PRODUCT RECORD: USB Type-C Digital Wired Earphones — details, pricing and image gallery -->
-    <article id="p3">
-     <!-- PRODUCT IDENTITY: Main thumbnail, name, category and Product Details -->
-     <div class="product">
-      <div>
-       <img alt="USB Type-C Digital Wired Earphones" class="hero" src="assets/images/product-image-13.jpg"/>
-       <p class="muted">
+</details>
+</article><article id="p3">
+<!-- PRODUCT IDENTITY: Main thumbnail, name, category and Product Details -->
+<div class="product">
+<div>
+<img alt="USB Type-C Digital Wired Earphones" class="hero" src="assets/images/product-image-13.jpg"/>
+<p class="muted">
         1688 supplier thumbnail
         <br/>
         Not an inspected sample.
        </p>
-      </div>
-      <div>
-       <div class="num">
+</div>
+<div>
+<div class="num">
         NEW PRODUCT / 04
        </div>
-       <h2>
+<h2>
         USB Type-C Digital Wired Earphones
        </h2>
-       <span class="badge">
-        Others
-       </span>
-       <span class="badge">
+<span class="badge" title="No original brand established from available source evidence; neutral/unbranded listings use Other.">Other</span>
+<span class="badge">
         ELECTRONICS
        </span>
-       <h3>
+<h3>
         Product Details
        </h3>
-       <p>
+<p>
         Digital wired earphones with a USB Type-C connection, offered by the supplier for selected phones. A lightweight alternative to rechargeable wireless earbuds for listening and everyday portable use. Device compatibility depends on USB audio implementation, not simply the shape of the connector. Verify DAC support, microphone and inline controls, cable length, tip style and exact compatible devices before making those claims.
        </p>
-       <!-- PRICING SUMMARY: Source cost, base shipping, Jumia reference and proposed retail -->
-       <div class="metrics">
-        <div class="metric">
-         <small>
+<!-- PRICING SUMMARY: Source cost, base shipping, Jumia reference and proposed retail -->
+<div class="metrics">
+<div class="metric">
+<small>
           Source price
          </small>
-         <b>
+<b>
           ¥3.10
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Base shipping
          </small>
-         <b>
+<b>
           ₦5,000
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Price on Jumia
          </small>
-         <b>
+<b>
           ₦4,000
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Proposed retail
          </small>
-         <b>
+<b>
           ₦3,490
          </b>
-        </div>
-       </div>
-       <p class="muted">
+</div>
+</div>
+<p class="muted">
         Connector/category comparable only. Jumia copy contains contradictory wired/Bluetooth language; compatibility needs testing.
        </p>
-       <p>
-        <a href="https://detail.1688.com/offer/615236920781.html" rel="noopener" target="_blank">
+<p>
+<a href="https://detail.1688.com/offer/615236920781.html" rel="noopener" target="_blank">
          1688 product ↗
         </a>
         ·
         <a href="https://www.jumia.com.ng/wired-type-c-earphones-with-mic-for-all-type-c-port-device-white-in-the-ear-generic-mpg9507916.html" rel="noopener" target="_blank">
          Jumia comparison ↗
         </a>
-       </p>
-      </div>
-     </div>
-     <h3>
+</p>
+</div>
+</div>
+<h3>
       Pricing overrides &amp; commercial proposal
      </h3>
-     <table>
-      <thead>
-       <tr>
-        <th>
+<table>
+<thead>
+<tr>
+<th>
          Source override
         </th>
-        <th>
+<th>
          Shipping override
         </th>
-        <th>
+<th>
          Compare-at proposal
         </th>
-        <th>
+<th>
          Planned discount
         </th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <td class="po">
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="po">
          ¥5.20
         </td>
-        <td class="so">
+<td class="so">
          ₦5,000
         </td>
-        <td>
+<td>
          ₦3,790
         </td>
-        <td>
+<td>
          7.9%
         </td>
-       </tr>
-      </tbody>
-     </table>
-     <p class="econ">
+</tr>
+</tbody>
+</table>
+<p class="econ">
       Enter your actual exchange rate above to test cost viability.
      </p>
-     <h3>
-      Main + Support Images · Gallery
-     </h3>
-     <!-- IMAGE GRID: Main image followed by available support images; always visible -->
-     <div class="team-gallery">
-      <figure style="margin:0">
-       <img alt="USB Type-C Digital Wired Earphones" src="assets/images/product-image-13.jpg"/>
-       <figcaption class="muted">
-        MAIN IMAGE
-       </figcaption>
-      </figure>
-     </div>
-     <p class="muted">
-      Support images pending verification — no additional supplier images supplied yet.
-     </p>
-     <!-- SOURCE EVIDENCE: Expand to review supplier text and original image URLs -->
-     <details>
-      <summary>
+<!-- SOURCE EVIDENCE: Expand to review supplier text and original image URLs -->
+<details>
+<summary>
        Source evidence &amp; image URLs
       </summary>
-      <p>
-       <b>
+<p>
+<b>
         1688 title:
        </b>
        工厂批发Typec数字有线耳机适用于苹果耳机华为oppovivo扁头耳机
       </p>
-      <p class="muted">
+<p class="muted">
        Observed card: 工厂批发Typec数字有线耳机适用于苹果耳机华为oppovivo扁头耳机 7天包换 48小时发货 ¥ 3.1 月销24675条 东莞市凯世铂电子有限公司 7 年
       </p>
-      <p>
-       <b>
+<p>
+<b>
         Main image URL · 1688
        </b>
-      </p>
-      <div class="url">
+</p>
+<div class="url">
        https://cbu01.alicdn.com/img/ibank/O1CN01bRl7EE2DzxFYqF4Ha_!!2206762628681-0-cib.220x220.jpg
       </div>
-      <p>
-       <b>
-        Support images · 1688:
-       </b>
-       Not available / unverified. No gallery URLs have been invented.
-      </p>
-     </details>
-    </article>
-    <!-- PRODUCT RECORD: G200 Mini Magnetic Bluetooth Speaker — details, pricing and image gallery -->
-    <article id="p4">
-     <!-- PRODUCT IDENTITY: Main thumbnail, name, category and Product Details -->
-     <div class="product">
-      <div>
-       <img alt="G200 Mini Magnetic Bluetooth Speaker" class="hero" src="assets/images/product-image-14.jpg"/>
-       <p class="muted">
+</details>
+</article><article id="p4">
+<!-- PRODUCT IDENTITY: Main thumbnail, name, category and Product Details -->
+<div class="product">
+<div>
+<img alt="G200 Mini Magnetic Bluetooth Speaker" class="hero" src="assets/images/product-image-14.jpg"/>
+<p class="muted">
         1688 supplier thumbnail
         <br/>
         Not an inspected sample.
        </p>
-      </div>
-      <div>
-       <div class="num">
+</div>
+<div>
+<div class="num">
         NEW PRODUCT / 05
        </div>
-       <h2>
+<h2>
         G200 Mini Magnetic Bluetooth Speaker
        </h2>
-       <span class="badge">
-        Others
-       </span>
-       <span class="badge">
+<span class="badge" title="Hongxikang is a pinyin romanization of the supplier-listed brand 鸿熙康, not a verified official English brand name.">Hongxikang</span>
+<span class="badge">
         ELECTRONICS
        </span>
-       <h3>
+<h3>
         Product Details
        </h3>
-       <p>
+<p>
         A G200 mini Bluetooth speaker with magnetic attachment, described by the supplier as portable and intended for outdoor or camping use. Its compact wireless format is suited to personal listening with a compatible Bluetooth device. Check the magnetic mounting surface and secure placement before use. Confirm whether phone-stand functionality, lighting or any microphone is included; these features must not be copied from the Jumia comparable without seller confirmation.
        </p>
-       <!-- PRICING SUMMARY: Source cost, base shipping, Jumia reference and proposed retail -->
-       <div class="metrics">
-        <div class="metric">
-         <small>
+<!-- PRICING SUMMARY: Source cost, base shipping, Jumia reference and proposed retail -->
+<div class="metrics">
+<div class="metric">
+<small>
           Source price
          </small>
-         <b>
+<b>
           ¥22.00
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Base shipping
          </small>
-         <b>
+<b>
           ₦5,000
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Price on Jumia
          </small>
-         <b>
+<b>
           ₦9,400
          </b>
-        </div>
-        <div class="metric">
-         <small>
+</div>
+<div class="metric">
+<small>
           Proposed retail
          </small>
-         <b>
+<b>
           ₦8,490
          </b>
-        </div>
-       </div>
-       <p class="muted">
+</div>
+</div>
+<p class="muted">
         Functional magnetic-speaker comparable; Jumia RGB/phone-stand features and exact G200 equivalence are unconfirmed.
        </p>
-       <p>
-        <a href="https://detail.1688.com/offer/964661818873.html" rel="noopener" target="_blank">
+<p>
+<a href="https://detail.1688.com/offer/964661818873.html" rel="noopener" target="_blank">
          1688 product ↗
         </a>
         ·
         <a href="https://www.jumia.com.ng/mini-magnetic-bluetooth-speaker-with-rgb-light-and-portable-phone-stand-for-phones-generic-mpg11429188.html" rel="noopener" target="_blank">
          Jumia comparison ↗
         </a>
-       </p>
-      </div>
-     </div>
-     <h3>
+</p>
+</div>
+</div>
+<h3>
       Pricing overrides &amp; commercial proposal
      </h3>
-     <table>
-      <thead>
-       <tr>
-        <th>
+<table>
+<thead>
+<tr>
+<th>
          Source override
         </th>
-        <th>
+<th>
          Shipping override
         </th>
-        <th>
+<th>
          Compare-at proposal
         </th>
-        <th>
+<th>
          Planned discount
         </th>
-       </tr>
-      </thead>
-      <tbody>
-       <tr>
-        <td class="po">
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="po">
          ¥22.00
         </td>
-        <td class="so">
+<td class="so">
          ₦5,000
         </td>
-        <td>
+<td>
          ₦9,190
         </td>
-        <td>
+<td>
          7.6%
         </td>
-       </tr>
-      </tbody>
-     </table>
-     <p class="econ">
+</tr>
+</tbody>
+</table>
+<p class="econ">
       Enter your actual exchange rate above to test cost viability.
      </p>
-     <h3>
-      Main + Support Images · Gallery
-     </h3>
-     <!-- IMAGE GRID: Main image followed by available support images; always visible -->
-     <div class="team-gallery">
-      <figure style="margin:0">
-       <img alt="G200 Mini Magnetic Bluetooth Speaker" src="assets/images/product-image-14.jpg"/>
-       <figcaption class="muted">
-        MAIN IMAGE
-       </figcaption>
-      </figure>
-     </div>
-     <p class="muted">
-      Support images pending verification — no additional supplier images supplied yet.
-     </p>
-     <!-- SOURCE EVIDENCE: Expand to review supplier text and original image URLs -->
-     <details>
-      <summary>
+<!-- SOURCE EVIDENCE: Expand to review supplier text and original image URLs -->
+<details>
+<summary>
        Source evidence &amp; image URLs
       </summary>
-      <p>
-       <b>
+<p>
+<b>
         1688 title:
        </b>
        外贸G200磁吸蓝牙音箱 迷你无线便携式户外露营K歌宝1202蓝牙音响
       </p>
-      <p class="muted">
+<p class="muted">
        Observed card: 外贸G200磁吸蓝牙音箱 迷你无线便携式户外露营K歌宝1202蓝牙音响 鸿熙康 品牌 一件代发 ¥ 22.0 月销1361件 东莞市长安鸿熙康电子厂 2 年
       </p>
-      <p>
-       <b>
+<p>
+<b>
         Main image URL · 1688
        </b>
-      </p>
-      <div class="url">
+</p>
+<div class="url">
        https://cbu01.alicdn.com/img/ibank/O1CN019FR4Jj1RywxwjmMXG_!!2220456972181-0-cib.220x220.jpg
       </div>
-      <p>
-       <b>
-        Support images · 1688:
-       </b>
-       Not available / unverified. No gallery URLs have been invented.
-      </p>
-      <p>
-       <b>
-        Separate Jumia comparison gallery
-       </b>
-       — extracted from the magnetic-speaker comparator page; NOT supplier support images and not verified as the exact G200 product.
-      </p>
-      <div class="url">
-       https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/54/0005814/1.jpg?8807
-      </div>
-      <div class="url">
-       https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/54/0005814/2.jpg?8807
-      </div>
-      <div class="url">
-       https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/54/0005814/3.jpg?8807
-      </div>
-      <div class="url">
-       https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/54/0005814/4.jpg?8807
-      </div>
-      <div class="url">
-       https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/54/0005814/5.jpg?8807
-      </div>
-      <div class="url">
-       https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/54/0005814/6.jpg?8807
-      </div>
-     </details>
-    </article>
-    <!-- INFORMATION SECTION: Commercial guardrails -->
-    <section class="panel">
-     <h2>
+</details>
+</article></div></section>
+<!-- PRODUCT RECORD: Dual-Mode Rechargeable Silent Wireless Mouse — details, pricing and image gallery -->
+<!-- PRODUCT RECORD: X1 Mini Portable Bluetooth Speaker — details, pricing and image gallery -->
+<!-- PRODUCT RECORD: USB Type-C Digital Wired Earphones — details, pricing and image gallery -->
+<!-- PRODUCT RECORD: G200 Mini Magnetic Bluetooth Speaker — details, pricing and image gallery -->
+<!-- INFORMATION SECTION: Commercial guardrails -->
+<section class="panel">
+<h2>
       Commercial guardrails
      </h2>
-     <p>
+<p>
       Retail and compare-at amounts are
       <b>
        curated proposals
       </b>
       , not extracted sale prices or historical prices. Compare-at values are modest planned regular-price variants, chosen below the selected Jumia comparator except for the mouse. Do not display a crossed-out regular price or advertise these discounts until a genuine reference price is substantiated under applicable rules.
      </p>
-     <p>
+<p>
       Planned discount = (compare-at − proposed retail) ÷ compare-at × 100. Cost check = overridden CNY cost × your exchange rate + overridden shipping. It excludes every unverified fee and is
       <b>
        not a profit forecast
       </b>
       . Low-ticket items may be uneconomic with ₦5,000 shipping; consider bundles or confirmed consolidated freight rather than artificially lowering the cost.
      </p>
-     <p class="muted">
-      Brand “Others” is the requested catalog field, not a claim that every supplier is unbranded. G200’s source card shows 鸿熙康; do not remove actual product branding or imply authorization. Validate all variant specifications and image rights before publishing.
-     </p>
-    </section>
-    <!-- FOOTER: Research date and transaction disclaimer -->
-    <footer>
-     Curated for review · 27 October 2026 · 5 product drafts · No orders placed
-    </footer>
-   </main>
-  </html>
-  <script defer="" src="data/products.js">
-  </script>
-  <script defer="" src="assets/js/app.js">
-  </script>
- </body>
+<p class="muted">Brand policy: use the original product brand in English or Latin letters where supported; otherwise use “Other”. G200: Hongxikang is the pinyin romanization of the supplier-listed 鸿熙康, not a verified official English trade name. Model names and manufacturer names are not automatically brands.</p>
+</section>
+<!-- FOOTER: Research date and transaction disclaimer -->
+<footer>AUTHOR: DAVE ADEX · 40-product daily clusters · Main images only · Research: 27 October 2026 · Draft records; no orders placed.</footer>
+</main>
+</html>
+<script defer="" src="data/products.js">
+</script>
+<script defer="" src="assets/js/app.js">
+</script>
+</body>
 </html>

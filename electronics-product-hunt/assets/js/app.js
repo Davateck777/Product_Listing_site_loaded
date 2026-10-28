@@ -46,6 +46,9 @@ function apply() {
  */
 function download() {
   const payload = {
+    author: 'DAVE ADEX',
+    products_per_day: 40,
+    image_policy: 'main-image-only',
     research_date: '2026-10-27',
     status: 'draft',
     exchange_rate_ngn_per_cny: Number(document.getElementById('fx').value) || null,

@@ -26,7 +26,7 @@ electronics-product-hunt/
 - Static card content and runtime data are deliberately separate in this no-build handoff; they do not automatically synchronize.
 
 ## Current state
-Five products. P9 has 1 main plus 9 support images, supplied by the user; other products have a main image and pending-support notice. Galleries are visible grids. Prices are carried forward, not newly revalidated. Product data contains original remote image URLs; displayed copies are local.
+AUTHOR: DAVE ADEX. Five current products grouped into Day 1 (5 / 40 capacity). Each daily grid holds up to 40 product cards. Main images only: all support and comparison galleries were removed for this session. Prices are carried forward, not newly revalidated. Product data contains original remote image URLs; displayed copies are local.
 
 ## Important verification checks
 Confirm exact offer/variant, quote, MOQ, image rights, package weight, landed costs and certificate scope before publication. P9 attributes are supplier-stated. Compare-at prices and discounts are proposals, not proven historical pricing. Enter your actual exchange rate before evaluating costs.
@@ -36,3 +36,11 @@ HTML regions have descriptive comments. CSS sections and JavaScript functions ex
 
 ## Changes made in the browser
 Apply overrides before exporting. The export captures the current in-memory product records. Browser changes are not automatically saved into these project files.
+
+## Daily grid maintenance
+Add product cards and matching data records in groups of up to 40. After Day 1 reaches 40 records, create Day 2 using the same `.day-section` / `.day-grid` structure. Current five records remain unchanged; empty slots are not fake products. Keep product IDs aligned with data indices for pricing controls.
+
+## Brand policy
+Use the original product brand when supported by source evidence; otherwise use `Other`. Never substitute the manufacturer, model name or compatible-device brand. Current records: G200 = Hongxikang (pinyin romanization of supplier-listed 鸿熙康; official English trade name unverified); the remaining four = Other pending original-brand evidence.
+
+Brand display uses English/Latin letters. Prefer an established official English name; otherwise clearly label romanization. Use Other when the original brand is not established.

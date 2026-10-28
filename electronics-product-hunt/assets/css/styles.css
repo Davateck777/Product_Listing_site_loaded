@@ -233,3 +233,17 @@ body {
 .team-gallery img {
   height:180px}
 }
+
+/* AUTHOR CREDIT — Visible attribution in the page header. */
+.author-credit { font-weight: 700; letter-spacing: 2px; }
+/* DAILY CLUSTERS — Two-column product grid, up to 40 records per day. */
+.day-section { margin: 28px 0; }
+.day-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; align-items: start; }
+.day-grid article { margin: 0; min-width: 0; }
+.day-grid .product { grid-template-columns: 1fr; gap: 15px; }
+.day-grid .hero { max-width: 220px; display: block; margin: auto; }
+.day-grid .metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+/* SMALL SCREENS — Stack cards so product details remain readable. */
+@media (max-width: 850px) { .day-grid { grid-template-columns: 1fr; } }
+/* PRINT — Keep each product card readable in the exported document. */
+@media print { .day-grid { display: block; } .day-grid article { margin-bottom: 20px; } }
