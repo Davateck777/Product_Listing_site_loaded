@@ -256,3 +256,12 @@ body {
 #jumia-comparison-summary th:first-child { width: 5%; }
 #jumia-comparison-summary th:nth-child(2) { width: 40%; }
 #jumia-comparison-summary td { overflow-wrap: anywhere; vertical-align: top; }
+
+/* SUPPLIER DETAILS — Structured English facts, provenance and explicit conflicts. */
+.supplier-specs { display:grid; grid-template-columns:minmax(105px, 1fr) 2fr; gap:6px 14px; margin:14px 0; font-size:14px; line-height:1.5; }
+.supplier-specs dt { color:#64748b; font-weight:600; }
+.supplier-specs dd { margin:0; overflow-wrap:anywhere; }
+.supplier-warning { border-left:3px solid #d99b2b; padding:10px 12px; background:#fff8e8; color:#664513; font-size:13px; line-height:1.6; }
+.details-source { font-size:12px; line-height:1.5; }
+#supplier-details-audit { margin:24px 0; padding:20px; border:1px solid #cbd5e1; border-radius:12px; background:#f8fafc; }
+@media(max-width:480px) { .supplier-specs { grid-template-columns:1fr; gap:3px; } .supplier-specs dd { margin-bottom:7px; } }

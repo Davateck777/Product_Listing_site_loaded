@@ -52,3 +52,16 @@ Brand display uses English/Latin letters. Prefer an established official English
 All 40 records reviewed: 30 extracted price references, 10 unresolved. 14 references use accessible Jumia page evidence; 16 use search-index extracts. Aigo T98 and HM11 indexed prices conflict with empty direct-search results and remain unconfirmed references, not verified active offers. Brand/model-name, model-family and functional-comparable classifications are recorded separately. No identical-SKU guarantees. Prices exclude Jumia delivery. Null means no accepted price, not zero.
 
 `data/jumia-price-comparisons.csv` is the full audit with source URLs and caveats. Product-brand fields were not overwritten by Jumia retail brands. Commercial retail/compare-at proposals for the 35 new products remain pending. Main images only, as requested.
+
+## Step 4 — Supplier Product Details
+
+Checked 28 October 2026. 38/40 supplier pages yielded readable specifications; T70 (#27) and Jisiyuan vertical mouse (#34) returned CAPTCHA, so invented/generic specifications were removed and these remain pending.
+
+Each Product Details section identifies its basis (attributes, packing, readable detail prose). No image-only text was transcribed or OCRed and no detail/support images were added. Product #19 (Q10) uses readable attributes only from the returned page chunk; deeper packing/detail sections were not retrieved. The supplier-product-details.csv audit contains all 40 sources, English extracts, statuses and verification notes.
+
+`product_details` stores structured English facts; `description` stores a brief English product description; the full extracted facts and warnings remain in the dedicated fields. Dedicated fields retain the source URL, check date, extraction basis, status and verification notes. Conflicting units/weights, feature contradictions and mixed-model offers are intentionally flagged, not silently corrected. Waterproofing, runtime, chipsets and certification are supplier claims, not independently verified. Warranty and customization statements require written seller confirmation.
+
+Source prices, base shipping, Jumia evidence and retail proposals were not changed in this step. Main-image-only policy and author DAVE ADEX are retained.
+
+### Brief description presentation
+Each of the 40 cards now shows a short Product Details paragraph first. Full supplier specifications, provenance and verification notes remain expandable beneath it. The two CAPTCHA-blocked products carry provisional title-based summaries without invented specifications. `data/brief-product-descriptions.csv` contains the concise handoff copy.

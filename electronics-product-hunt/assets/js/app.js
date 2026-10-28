@@ -33,7 +33,7 @@ function apply() {
     const cost = product.price_override_cny * rate + shipping;
     const balance = product.sale_ngn == null ? null : product.sale_ngn - cost;
     card.querySelector('.econ').textContent = rate > 0
-      ? balance == null ? 'Indicative sourcing cost: ' + money(cost) + ' — Jumia comparison and retail price pending.' : 'Indicative cost: ' + money(cost) + ' · Retail less indicative cost: ' +
+      ? balance == null ? 'Indicative sourcing cost: ' + money(cost) + ' — proposed retail price pending.' : 'Indicative cost: ' + money(cost) + ' · Retail less indicative cost: ' +
         money(balance) + (balance <= 0
           ? ' — NOT VIABLE at these inputs.'
           : ' — before unverified fees; not net profit.')
@@ -49,7 +49,8 @@ function download() {
     author: 'DAVE ADEX',
     products_per_day: 40,
     image_policy: 'main-image-only',
-    research_date: '2026-10-27',
+    research_date: '2026-10-28',
+    supplier_details_checked_date: '2026-10-28',
     status: 'draft',
     exchange_rate_ngn_per_cny: Number(document.getElementById('fx').value) || null,
     products
