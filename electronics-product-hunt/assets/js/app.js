@@ -31,9 +31,9 @@ function apply() {
     card.querySelector('.po').textContent = '¥' + product.price_override_cny.toFixed(2);
     card.querySelector('.so').textContent = money(shipping);
     const cost = product.price_override_cny * rate + shipping;
-    const balance = product.sale_ngn - cost;
+    const balance = product.sale_ngn == null ? null : product.sale_ngn - cost;
     card.querySelector('.econ').textContent = rate > 0
-      ? 'Indicative cost: ' + money(cost) + ' · Retail less indicative cost: ' +
+      ? balance == null ? 'Indicative sourcing cost: ' + money(cost) + ' — Jumia comparison and retail price pending.' : 'Indicative cost: ' + money(cost) + ' · Retail less indicative cost: ' +
         money(balance) + (balance <= 0
           ? ' — NOT VIABLE at these inputs.'
           : ' — before unverified fees; not net profit.')

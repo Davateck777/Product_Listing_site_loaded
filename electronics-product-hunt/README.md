@@ -44,3 +44,6 @@ Add product cards and matching data records in groups of up to 40. After Day 1 r
 Use the original product brand when supported by source evidence; otherwise use `Other`. Never substitute the manufacturer, model name or compatible-device brand. Current records: G200 = Hongxikang (pinyin romanization of supplier-listed 鸿熙康; official English trade name unverified); the remaining four = Other pending original-brand evidence.
 
 Brand display uses English/Latin letters. Prefer an established official English name; otherwise clearly label romanization. Use Other when the original brand is not established.
+
+## Day 1 completed: 40 records
+35 additional Step 2 sourcing leads were added to the original five. The new records include supplier links, card prices, original titles, main image URLs and English brand labels (or Other). New Jumia and retail fields are null/pending, not zero. `data/new-35-products.csv` contains only the added records. Audio and computing accessories dominate this shortlist; it is not a balanced survey of all electronics categories. Source claims, variant pricing, MOQ, stock, authenticity and image rights require checking before procurement.
