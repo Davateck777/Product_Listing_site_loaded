@@ -1,0 +1,50 @@
+{
+  "checked_date": "2026-10-28",
+  "rechecked_products": [
+    {
+      "basis": "Product Attributes and Packing; Product Details images not transcribed (recheck succeeded)",
+      "specs": {
+        "Brand": "C-VAST",
+        "Model": "T70 (offer title)",
+        "Bluetooth": "5.3 in attributes; marketing banner says 5.4",
+        "Range": "15 m claimed",
+        "Chipset": "Bluetrum",
+        "Runtime": "4–8 hours in attributes; marketing banner says 24 hours without basis",
+        "Housing": "PC + ABS",
+        "Audio": "Bilateral stereo; music support",
+        "Colours": "Black, White",
+        "Wearing style": "Semi-in-ear in title; on-ear in translated attribute field",
+        "Packed dimensions": "7.3 × 6.9 × 3 cm",
+        "Packed weight": "29 g",
+        "Water resistance": "Not supported",
+        "Dual-phone connection": "Not supported",
+        "Warranty field": "No warranty"
+      },
+      "notes": "Previously CAPTCHA-blocked page became readable on recheck. Bluetooth version (5.3 vs 5.4) and runtime (4–8 vs 24 hours) conflict. Consumer copy uses attributed 4–8 hours, not 24 hours; confirm actual model specification and fit. Package contents, capacity, charging method and charging time unconfirmed.",
+      "product_number": 27,
+      "source_url": "https://detail.1688.com/offer/1048906111697.html"
+    },
+    {
+      "basis": "Product Attributes, Packing and readable Product Details text (recheck succeeded)",
+      "specs": {
+        "Supplier": "Shenzhen Jisiyuan Technology Co., Ltd.",
+        "Item": "Fifth-generation vertical mouse",
+        "Brand field": "Collect ideas (automatic English translation; not verified brand spelling)",
+        "Connection": "2.4 GHz / USB in attributes; rechargeable dual-mode and three-mode variants also listed",
+        "Sensor": "Optical, 1600 DPI; up to three levels",
+        "Buttons": "6",
+        "Range": "15 m claimed",
+        "Dimensions": "120 × 75 × 78 mm",
+        "Weight": "0.15 kg attributes; 120 g packing",
+        "Scroll wheel": "Up/down",
+        "Package list": "Receiver (confirm by variant)",
+        "Variants": "Black/White rechargeable, replaceable-battery, wired, left-hand, lighting, dual-mode and three-mode choices",
+        "Power field": "2 AA batteries; rechargeable options separate",
+        "Warranty field": "12 without unit"
+      },
+      "notes": "Previously CAPTCHA-blocked page became readable on recheck. Attributes cover a multi-variant offer: do not apply 2 AA power, Bluetooth, silent clicks, lighting, hand orientation or receiver inclusion to every option. Title says rechargeable/dual-mode/silent; confirm chosen configuration. Weight conflict 150 g vs 120 g. Product Details says factory makes vertical mice; image-only specifications not transcribed.",
+      "product_number": 34,
+      "source_url": "https://detail.1688.com/offer/570299117889.html"
+    }
+  ]
+}
