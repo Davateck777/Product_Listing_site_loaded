@@ -47,3 +47,8 @@ Brand display uses English/Latin letters. Prefer an established official English
 
 ## Day 1 completed: 40 records
 35 additional Step 2 sourcing leads were added to the original five. The new records include supplier links, card prices, original titles, main image URLs and English brand labels (or Other). New Jumia and retail fields are null/pending, not zero. `data/new-35-products.csv` contains only the added records. Audio and computing accessories dominate this shortlist; it is not a balanced survey of all electronics categories. Source claims, variant pricing, MOQ, stock, authenticity and image rights require checking before procurement.
+
+## Step 3.1 — Jumia comparison audit (28 October 2026)
+All 40 records reviewed: 30 extracted price references, 10 unresolved. 14 references use accessible Jumia page evidence; 16 use search-index extracts. Aigo T98 and HM11 indexed prices conflict with empty direct-search results and remain unconfirmed references, not verified active offers. Brand/model-name, model-family and functional-comparable classifications are recorded separately. No identical-SKU guarantees. Prices exclude Jumia delivery. Null means no accepted price, not zero.
+
+`data/jumia-price-comparisons.csv` is the full audit with source URLs and caveats. Product-brand fields were not overwritten by Jumia retail brands. Commercial retail/compare-at proposals for the 35 new products remain pending. Main images only, as requested.

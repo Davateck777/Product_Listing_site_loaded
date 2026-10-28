@@ -247,3 +247,12 @@ body {
 @media (max-width: 850px) { .day-grid { grid-template-columns: 1fr; } }
 /* PRINT — Keep each product card readable in the exported document. */
 @media print { .day-grid { display: block; } .day-grid article { margin-bottom: 20px; } }
+
+/* JUMIA COMPARISONS — Separate extracted retail evidence from sourcing costs. */
+.comparison-block { background: #f2f7f3; padding: 16px; border: 1px solid #d8e6db; border-radius: 10px; margin-top: 18px; }
+.comparison-block h3 { margin-top: 0; }
+/* AUDIT TABLE — Preserve readable product names and wrap long evidence labels. */
+#jumia-comparison-summary table { table-layout: fixed; }
+#jumia-comparison-summary th:first-child { width: 5%; }
+#jumia-comparison-summary th:nth-child(2) { width: 40%; }
+#jumia-comparison-summary td { overflow-wrap: anywhere; vertical-align: top; }
