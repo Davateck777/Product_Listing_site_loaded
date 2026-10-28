@@ -265,3 +265,9 @@ body {
 .details-source { font-size:12px; line-height:1.5; }
 #supplier-details-audit { margin:24px 0; padding:20px; border:1px solid #cbd5e1; border-radius:12px; background:#f8fafc; }
 @media(max-width:480px) { .supplier-specs { grid-template-columns:1fr; gap:3px; } .supplier-specs dd { margin-bottom:7px; } }
+
+/* LONG PRODUCT COPY — Comfortable paragraph spacing; source caveats remain visible. */
+.long-description p { line-height:1.7; margin:0 0 14px; }
+.description-disclosure { font-size:12px; line-height:1.5; }
+.supplier-full-details { margin-top:16px; }
+.supplier-full-details > summary { cursor:pointer; font-weight:600; }

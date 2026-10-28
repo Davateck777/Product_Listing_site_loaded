@@ -59,9 +59,23 @@ Checked 28 October 2026. 38/40 supplier pages yielded readable specifications; T
 
 Each Product Details section identifies its basis (attributes, packing, readable detail prose). No image-only text was transcribed or OCRed and no detail/support images were added. Product #19 (Q10) uses readable attributes only from the returned page chunk; deeper packing/detail sections were not retrieved. The supplier-product-details.csv audit contains all 40 sources, English extracts, statuses and verification notes.
 
-`product_details` stores structured English facts; `description` stores a brief English product description; the full extracted facts and warnings remain in the dedicated fields. Dedicated fields retain the source URL, check date, extraction basis, status and verification notes. Conflicting units/weights, feature contradictions and mixed-model offers are intentionally flagged, not silently corrected. Waterproofing, runtime, chipsets and certification are supplier claims, not independently verified. Warranty and customization statements require written seller confirmation.
+`product_details` stores structured English facts; `description` stores the current long English product description; the full extracted facts and warnings remain in the dedicated fields. Dedicated fields retain the source URL, check date, extraction basis, status and verification notes. Conflicting units/weights, feature contradictions and mixed-model offers are intentionally flagged, not silently corrected. Waterproofing, runtime, chipsets and certification are supplier claims, not independently verified. Warranty and customization statements require written seller confirmation.
 
 Source prices, base shipping, Jumia evidence and retail proposals were not changed in this step. Main-image-only policy and author DAVE ADEX are retained.
 
-### Brief description presentation
-Each of the 40 cards now shows a short Product Details paragraph first. Full supplier specifications, provenance and verification notes remain expandable beneath it. The two CAPTCHA-blocked products carry provisional title-based summaries without invented specifications. `data/brief-product-descriptions.csv` contains the concise handoff copy.
+### Optimal-long Product Details — current presentation
+Each card now presents a multi-paragraph English description, with 150–200 words
+for each of the 38 readable supplier listings. T70 (#27) and the Jisiyuan vertical
+mouse (#34) remain shorter, clearly marked provisional descriptions because their
+supplier pages returned CAPTCHA. Copy was expanded only from previously extracted
+supplier text, not from Jumia or unrelated products. No fresh page recheck is claimed.
+
+The complete structured extraction and verification notes remain expandable on every
+card. `description` contains the long text; `brief_description` preserves the earlier
+short version. `description_word_count`, `description_basis` and the editorial date
+support handoff. `data/long-product-descriptions.csv` is the long-copy export, while
+`data/brief-product-descriptions.csv` retains the brief-copy export. Both remain drafts
+requiring supplier verification, especially for mixed variants and inconsistent fields.
+
+No prices, Jumia references, shipping allowances, retail proposals or main images were
+changed by this editorial update. No support images or transcribed image text added.
