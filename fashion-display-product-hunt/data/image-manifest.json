@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "source_url": "https://detail.1688.com/offer/803729849432.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01GmmyII1cG1itRkF7Y_!!2213280923572-0-cib.jpg",
+        "local_path": "assets/images/01-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1600,
+          1600
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "source_url": "https://detail.1688.com/offer/741845988456.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01E80F3Z27Qn5qvLToz_!!2216650967792-0-cib.jpg",
+        "local_path": "assets/images/02-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "source_url": "https://detail.1688.com/offer/548244522094.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/9253687821_1283791414.jpg",
+        "local_path": "assets/images/03-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "source_url": "https://detail.1688.com/offer/670753752468.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01Qw9EP21UNnHY4vgP4_!!3222482506-0-cib.jpg",
+        "local_path": "assets/images/04-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1200,
+          1200
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "source_url": "https://detail.1688.com/offer/570726216384.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01VDKMGd2JILCHICKII_!!2087959398-0-cib.jpg",
+        "local_path": "assets/images/05-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1001,
+          1001
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "source_url": "https://detail.1688.com/offer/828324892078.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01n3aQF62FnhtI9eTl2_!!2200627758925-0-cib.jpg",
+        "local_path": "assets/images/06-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          625,
+          625
+        ],
+        "delivered_dimensions": [
+          625,
+          625
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "source_url": "https://detail.1688.com/offer/45229337086.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01spwWFq23CMH5hqBiE_!!954827219-0-cib.jpg",
+        "local_path": "assets/images/07-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1000,
+          1000
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "source_url": "https://detail.1688.com/offer/815705621869.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01MfASsQ1sEgSEZ5Xcd_!!2211183985735-0-cib.jpg",
+        "local_path": "assets/images/08-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1066,
+          1066
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "source_url": "https://detail.1688.com/offer/618013272700.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/15681593974_2039328998.jpg",
+        "local_path": "assets/images/09-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "source_url": "https://detail.1688.com/offer/738925218006.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01XNWo1L1Fe5XYT8kbP_!!2216526300511-0-cib.jpg",
+        "local_path": "assets/images/10-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "source_url": "https://detail.1688.com/offer/626903301377.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01scmtzx1jqr3YyNRJw_!!2847654600-0-cib.jpg",
+        "local_path": "assets/images/11-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1500,
+          1500
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "source_url": "https://detail.1688.com/offer/830058986807.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01L8fxbN1I68rwoC10a_!!2218456950843-0-cib.jpg",
+        "local_path": "assets/images/12-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          900,
+          900
+        ],
+        "delivered_dimensions": [
+          900,
+          900
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "source_url": "https://detail.1688.com/offer/1072704101482.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN0177uP2psaVsL1chua_!!2220770081420-0-cib.jpg",
+        "local_path": "assets/images/13-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "source_url": "https://detail.1688.com/offer/1058703841557.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01F2Szcu1xh9HQqyBdE_!!2216353506474-0-cib.jpg",
+        "local_path": "assets/images/14-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "source_url": "https://detail.1688.com/offer/701331935736.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01EL4pSL1vHpp6Txuwh_!!2215348976148-0-cib.jpg",
+        "local_path": "assets/images/15-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          799
+        ],
+        "delivered_dimensions": [
+          800,
+          799
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "source_url": "https://detail.1688.com/offer/841992796647.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01eGEFXZ1lOZg2Qvr2T_!!2881054809-0-cib.jpg",
+        "local_path": "assets/images/16-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "source_url": "https://detail.1688.com/offer/1024875331543.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01V1fANN1OJmWNmPSGv_!!2221545241685-0-cib.jpg",
+        "local_path": "assets/images/17-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1200,
+          1200
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "source_url": "https://detail.1688.com/offer/731998611587.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01e3Fg2z1sVAbTpbM6h_!!2214426345771-0-cib.jpg",
+        "local_path": "assets/images/18-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "source_url": "https://detail.1688.com/offer/911561648693.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01nsaAuX2CYe3vVkkwW_!!2219624108486-0-cib.jpg",
+        "local_path": "assets/images/19-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "source_url": "https://detail.1688.com/offer/671049552364.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01pOYaH01mVjcNVRitz_!!2213370564960-0-cib.jpg",
+        "local_path": "assets/images/20-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "source_url": "https://detail.1688.com/offer/652146062502.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01U9RZT626P7nAy7ykN_!!2212239367653-0-cib.jpg",
+        "local_path": "assets/images/21-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "source_url": "https://detail.1688.com/offer/529346046334.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/2907635735_1813345207.jpg",
+        "local_path": "assets/images/22-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "source_url": "https://detail.1688.com/offer/616481581641.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN013WjeOB20PEDuJGYYX_!!4064426841-0-cib.jpg",
+        "local_path": "assets/images/23-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "source_url": "https://detail.1688.com/offer/942882561458.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01MswyUA1x6379aBup4_!!2216330276393-0-cib.jpg",
+        "local_path": "assets/images/24-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "source_url": "https://detail.1688.com/offer/779553192098.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01MfiqBx1b2uwklaJfT_!!2206975303408-0-cib.jpg",
+        "local_path": "assets/images/25-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "source_url": "https://detail.1688.com/offer/858439298708.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01coO1Ek2Hr20eKboC3_!!3301319203-0-cib.jpg",
+        "local_path": "assets/images/26-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1500,
+          1500
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "source_url": "https://detail.1688.com/offer/570666242867.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01I0WLxb2F1c2viqJuz_!!2923308820-0-cib.jpg",
+        "local_path": "assets/images/27-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "source_url": "https://detail.1688.com/offer/891496844231.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01xZZg0G1Yxl02KOO3p_!!2461143126-0-cib.jpg",
+        "local_path": "assets/images/28-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1920,
+          1920
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "source_url": "https://detail.1688.com/offer/1249583634.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01z9IJwF2GLat1h8vIi_!!956148999-0-cib.jpg",
+        "local_path": "assets/images/29-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1896,
+          1896
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "source_url": "https://detail.1688.com/offer/986185659287.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01QvGb30qqUyG1chua_!!2220458170750-0-cib.jpg",
+        "local_path": "assets/images/30-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "source_url": "https://detail.1688.com/offer/1065724629764.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01pqpQQU1Xx0zcACk8B_!!2214179362989-0-cib.jpg",
+        "local_path": "assets/images/31-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1280,
+          1280
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "source_url": "https://detail.1688.com/offer/675153495418.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN019M1NwC28MxCUaJPIk_!!961837919-0-cib.jpg",
+        "local_path": "assets/images/32-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "source_url": "https://detail.1688.com/offer/535336707513.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01C690v81EphyMhKxBr_!!2926960401-0-cib.jpg",
+        "local_path": "assets/images/33-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "source_url": "https://detail.1688.com/offer/654956640436.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN017T1jMD1UtOZjXWnqr_!!3295662575-0-cib.jpg",
+        "local_path": "assets/images/34-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "source_url": "https://detail.1688.com/offer/1039192580813.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01rwvvVh1Vgrm8byOHC_!!2221490742683-0-cib.jpg",
+        "local_path": "assets/images/35-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1920,
+          1920
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "source_url": "https://detail.1688.com/offer/1074845677002.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01CgvIPrHgsjB2R3rs_!!2214284779321-0-cib.jpg",
+        "local_path": "assets/images/36-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1200,
+          1200
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "source_url": "https://detail.1688.com/offer/646556048238.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01YH5cLR1hfjkOZuB0m_!!2211674124305-0-cib.jpg",
+        "local_path": "assets/images/37-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "source_url": "https://detail.1688.com/offer/1287002112.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01qnDfvm26YkUZS9via_!!1001897674-0-cib.jpg",
+        "local_path": "assets/images/38-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1024,
+          1024
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "source_url": "https://detail.1688.com/offer/1054151839689.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01Ok0XWd1n0QAP1JPY0_!!2211080875027-0-cib.jpg",
+        "local_path": "assets/images/39-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          1600,
+          1600
+        ],
+        "delivered_dimensions": [
+          1000,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "source_url": "https://detail.1688.com/offer/541135061133.html",
+    "completeness": "MAIN IMAGE ONLY — per user instruction. Main image from public page-reader evidence; browser verification remains blocked by login/CAPTCHA.",
+    "images": [
+      {
+        "role": "main",
+        "url": "https://cbu01.alicdn.com/img/ibank/O1CN01lx02HQ1ddfV9iZjfs_!!3026493759-0-cib.jpg",
+        "local_path": "assets/images/40-00.jpg",
+        "status": "downloaded",
+        "provenance": "Supplier page-reader gallery prefix; URL reconstructed from original CDN convention",
+        "original_dimensions": [
+          800,
+          800
+        ],
+        "delivered_dimensions": [
+          800,
+          800
+        ]
+      }
+    ]
+  }
+]

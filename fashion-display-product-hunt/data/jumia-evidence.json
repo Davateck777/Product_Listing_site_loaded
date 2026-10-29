@@ -1,0 +1,569 @@
+[
+  {
+    "id": 1,
+    "name": "Plain Silver Hoop Earrings",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Plain%20Silver%20Hoop%20Earrings",
+    "comparison": {
+      "price_ngn": 2000,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Plain%20Silver%20Hoop%20Earrings",
+      "source_url": "https://www.jumia.com.ng/slp/small-thick-hoop-earrings",
+      "note": "Shape comparable only; steel, not supplier-described silver.",
+      "title": "Diameter Hoop Earrings",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Stainless Steel Cross and Chain Ear Accessory",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Stainless%20Steel%20Cross%20and%20Chain%20Ear%20Accessory",
+    "comparison": {
+      "price_ngn": 5000,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Stainless%20Steel%20Cross%20and%20Chain%20Ear%20Accessory",
+      "source_url": "https://www.jumia.com.ng/slp/multicolored-hoop-earrings",
+      "note": "Cross-drop style comparable; fitting and chain differ.",
+      "title": "Cross Multicolor Drop Down Punk Men\u2019s Hoop Earrings",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bohemian Feather Tassel Earrings",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Bohemian%20Feather%20Tassel%20Earrings",
+    "comparison": {
+      "price_ngn": 107480,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Bohemian%20Feather%20Tassel%20Earrings",
+      "source_url": "https://www.jumia.com.ng/fashion-vintage-handmade-feather-earrings-jewelry-wholesale-accessories-ladiesboho-long-feather-pendant-250415540.html",
+      "note": "Feather-drop style only. Imported-listing price is an extreme outlier; not a recommended retail anchor.",
+      "title": "Vintage Handmade Feather Earrings Jewelry Wholesale Accessories LadiesBoho Long Feather Pendant",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Cow-Print Acrylic Statement Earrings",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Cow-Print%20Acrylic%20Statement%20Earrings",
+    "comparison": {
+      "price_ngn": 3999,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Cow-Print%20Acrylic%20Statement%20Earrings",
+      "source_url": "https://www.jumia.com.ng/slp/beautiful-earrings-for-women",
+      "note": "Acrylic heart style; FIVE PAIRS versus supplier option. Not unit-normalised.",
+      "title": "Beautiful Colorful Heart Acrylic Earrings Set For Women -5 Pairs",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Rhinestone Cuban-Link Fashion Necklace",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Rhinestone%20Cuban-Link%20Fashion%20Necklace",
+    "comparison": {
+      "price_ngn": 1743,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Rhinestone%20Cuban-Link%20Fashion%20Necklace",
+      "source_url": "https://www.jumia.com.ng/slp/chunky-cuban-chain-necklace",
+      "note": "Cuban/rhinestone style comparable; length, weight, plating and brand not matched.",
+      "title": "Iced Cuban Link Chain Luxury Collection Mens Hip Hop Necklaces Womens Jewelry - Gold",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Snake-Shape Pendant Necklace",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Snake-Shape%20Pendant%20Necklace",
+    "comparison": {
+      "price_ngn": 3295,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Snake-Shape%20Pendant%20Necklace",
+      "source_url": "https://www.jumia.com.ng/fashion-snakecross-necklace-111246377.html",
+      "note": "Low-confidence named-category comparable, not the same pendant or material. Do not treat as exact match.",
+      "title": "Snake,cross Necklace",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Woven Cord Cross Pendant Necklace",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Woven%20Cord%20Cross%20Pendant%20Necklace",
+    "comparison": {
+      "price_ngn": 3200,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Woven%20Cord%20Cross%20Pendant%20Necklace",
+      "source_url": "https://www.jumia.com.ng/mlp-cross-necklace/",
+      "note": "Cross-necklace function only; steel chain instead of woven cord.",
+      "title": "ASHION Unisex Stainless Steel Cross Pendant Chain",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sunflower-Style Pendant Necklace",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Sunflower-Style%20Pendant%20Necklace",
+    "comparison": {
+      "price_ngn": 5000,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Sunflower-Style%20Pendant%20Necklace",
+      "source_url": "https://www.jumia.com.ng/slp/birth-flower-necklace",
+      "note": "Sunflower motif only; stones and pendant style differ.",
+      "title": "Gold Teddy Necklace CZ Crystal sun flower Pendantstainless steel",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Star and Moon Decorative Hair Clips",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Star%20and%20Moon%20Decorative%20Hair%20Clips",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Star%20and%20Moon%20Decorative%20Hair%20Clips",
+      "source_url": null,
+      "note": "Do not infer a price from a different product, missing price, or non-Nigerian result."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Mini Glitter Butterfly Claw Hair Clip",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Mini%20Glitter%20Butterfly%20Claw%20Hair%20Clip",
+    "comparison": {
+      "price_ngn": 2499,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Mini%20Glitter%20Butterfly%20Claw%20Hair%20Clip",
+      "source_url": "https://www.jumia.com.ng/mlp-butterfly-clips/",
+      "note": "TWELVE-PIECE PACK versus one mini supplier clip; size and glitter not confirmed.",
+      "title": "12PCS Butterfly Hair Clips, Hair Claw Clamps Plastic Hairpin",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Large Matte Claw Hair Clip",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Large%20Matte%20Claw%20Hair%20Clip",
+    "comparison": {
+      "price_ngn": 4500,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Large%20Matte%20Claw%20Hair%20Clip",
+      "source_url": "https://www.jumia.com.ng/slp/cute-claw-clips-for-thick-hair",
+      "note": "THREE-PIECE SET versus one clip; size and brand differ.",
+      "title": "3 piece Large Matte Nude Hair Claw Clip Set for Hair",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Large Satin-Look Bow Hair Clip",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Large%20Satin-Look%20Bow%20Hair%20Clip",
+    "comparison": {
+      "price_ngn": 3500,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Large%20Satin-Look%20Bow%20Hair%20Clip",
+      "source_url": "https://www.jumia.com.ng/slp/elegant-hair-clips",
+      "note": "Same accessory type; size, fabric and clip mechanism not matched.",
+      "title": "Satin Bow Hair Clip Big Ribbon Hair Bow",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Textured PU Small Square Crossbody Bag",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Textured%20PU%20Small%20Square%20Crossbody%20Bag",
+    "comparison": {
+      "price_ngn": 2384,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Textured%20PU%20Small%20Square%20Crossbody%20Bag",
+      "source_url": "https://www.jumia.com.ng/slp/small-cross-body-bag",
+      "note": "Small crossbody category only; not matched texture, hardware or internal layout.",
+      "title": "Crossbody Bag Trendy Fashion Simple Buckle Fresh Sweet Handheld Small",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Cow-Print Wide-Strap Saddle Bag",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Cow-Print%20Wide-Strap%20Saddle%20Bag",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Cow-Print%20Wide-Strap%20Saddle%20Bag",
+      "source_url": null,
+      "note": "Do not infer a price from a different product, missing price, or non-Nigerian result."
+    }
+  },
+  {
+    "id": 15,
+    "name": "Corduroy-Style Bucket Tote Bag",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Corduroy-Style%20Bucket%20Tote%20Bag",
+    "comparison": {
+      "price_ngn": 6999,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Corduroy-Style%20Bucket%20Tote%20Bag",
+      "source_url": "https://www.jumia.com.ng/fashion-beautiful-corduroy-tote-bag-for-women-black-401593084.html",
+      "note": "Corduroy tote comparable; zipper versus supplier magnetic closure; dimensions differ.",
+      "title": "Beautiful Corduroy Tote Bag for Women Black",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Multi-Compartment Casual Crossbody Bag",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Multi-Compartment%20Casual%20Crossbody%20Bag",
+    "comparison": {
+      "price_ngn": 6500,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Multi-Compartment%20Casual%20Crossbody%20Bag",
+      "source_url": "https://www.jumia.com.ng/slp/black-nylon-crossbody-bag",
+      "note": "Nylon crossbody category only; size, pockets and brand not matched. Jumia waterproof marketing is not attributed to the supplier product.",
+      "title": "Ladies Mini Portable Bag",
+      "observed_at": "2026-10-29",
+      "method": "Public search-index result; not checkout verification"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Heart-Shaped Party Glasses",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Heart-Shaped%20Party%20Glasses",
+    "comparison": {
+      "price_ngn": 5402,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Heart-Shaped%20Party%20Glasses",
+      "source_url": "https://www.jumia.com.ng/slp/cool-sunglasses",
+      "note": "Heart shape comparable only; construction and protection claims differ.",
+      "title": "Y2K style frameless heart-shaped glasses",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Square Polarized Fashion Sunglasses",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Square%20Polarized%20Fashion%20Sunglasses",
+    "comparison": {
+      "price_ngn": 4320,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Square%20Polarized%20Fashion%20Sunglasses",
+      "source_url": "https://www.jumia.com.ng/slp/polarized-sunglasses-for-the-money",
+      "note": "Square polarized category; brand and test certification not matched.",
+      "title": "Men Retro Square Polarized Sunglasses Black",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Metal-Frame Aviator Fashion Sunglasses",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Metal-Frame%20Aviator%20Fashion%20Sunglasses",
+    "comparison": {
+      "price_ngn": 3182,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Metal-Frame%20Aviator%20Fashion%20Sunglasses",
+      "source_url": "https://www.jumia.com.ng/mlp-aviator-sunglasses/",
+      "note": "Aviator style only; lens protection and material not matched.",
+      "title": "Men Women Aviator Sunglasses Classic Pilot Shades",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Flip-Up Fit-Over Polarized Sunglasses",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Flip-Up%20Fit-Over%20Polarized%20Sunglasses",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Flip-Up%20Fit-Over%20Polarized%20Sunglasses",
+      "source_url": null,
+      "note": "Do not infer a price from a different product, missing price, or non-Nigerian result."
+    }
+  },
+  {
+    "id": 21,
+    "name": "Narrow Printed Bag and Hair Scarf",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Narrow%20Printed%20Bag%20and%20Hair%20Scarf",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Narrow%20Printed%20Bag%20and%20Hair%20Scarf",
+      "source_url": null,
+      "note": "Do not infer a price from a different product, missing price, or non-Nigerian result."
+    }
+  },
+  {
+    "id": 22,
+    "name": "Lotus-Print Long Fashion Scarf",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Lotus-Print%20Long%20Fashion%20Scarf",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Lotus-Print%20Long%20Fashion%20Scarf",
+      "source_url": null,
+      "note": "Do not infer a price from a different product, missing price, or non-Nigerian result."
+    }
+  },
+  {
+    "id": 23,
+    "name": "Plain Crepe Long Fashion Scarf",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Plain%20Crepe%20Long%20Fashion%20Scarf",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Plain%20Crepe%20Long%20Fashion%20Scarf",
+      "source_url": null,
+      "note": "Do not infer a price from a different product, missing price, or non-Nigerian result."
+    }
+  },
+  {
+    "id": 24,
+    "name": "Paisley-Print 70 cm Satin-Look Scarf",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Paisley-Print%2070%20cm%20Satin-Look%20Scarf",
+    "comparison": {
+      "price_ngn": 3586,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Paisley-Print%2070%20cm%20Satin-Look%20Scarf",
+      "source_url": "https://www.jumia.com.ng/slp/silk-scarf-for-travel",
+      "note": "70 \u00d7 70 cm paisley format comparable; print, fibre and brand not matched.",
+      "title": "1pc Blue Paisley Printed Square Scarf-Thin And Smooth WomenS Scarf",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Rotating Five-Tier Jewellery Stand",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Rotating%20Five-Tier%20Jewellery%20Stand",
+    "comparison": {
+      "price_ngn": 21500,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Rotating%20Five-Tier%20Jewellery%20Stand",
+      "source_url": "https://www.jumia.com.ng/slp/bead-stand",
+      "note": "Rotating rack comparable; THREE layers versus supplier five; size differs.",
+      "title": "3-Layer Jewelry Display Stand Rotating Rack",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Velvet Necklace Bust Display",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Velvet%20Necklace%20Bust%20Display",
+    "comparison": {
+      "price_ngn": 11999,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Velvet%20Necklace%20Bust%20Display",
+      "source_url": "https://www.jumia.com.ng/slp/bead-stand",
+      "note": "Velvet necklace bust comparable; exact size not matched.",
+      "title": "Velvet Smooth Velvet Necklace Display Bust Stand Mannequin Jewelry Show",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Mini T-Bar Earring Display Stand",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Mini%20T-Bar%20Earring%20Display%20Stand",
+    "comparison": {
+      "price_ngn": 8780,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Mini%20T-Bar%20Earring%20Display%20Stand",
+      "source_url": "https://www.jumia.com.ng/mlp-earring-display/",
+      "note": "Display SET versus single mini T-bar; contents and material unconfirmed.",
+      "title": "Earrings Display Set",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Detachable Wood-Base Earring Rack",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Detachable%20Wood-Base%20Earring%20Rack",
+    "comparison": {
+      "price_ngn": 8670,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Detachable%20Wood-Base%20Earring%20Rack",
+      "source_url": "https://www.jumia.com.ng/mlp-earring-display/",
+      "note": "Wood-base earring-rack type; hole count and height unconfirmed.",
+      "title": "Earring Display Stand With Wooden Base",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Transparent Ten-Compartment Jewellery Box",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Transparent%20Ten-Compartment%20Jewellery%20Box",
+    "comparison": {
+      "price_ngn": 8750,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Transparent%20Ten-Compartment%20Jewellery%20Box",
+      "source_url": "https://www.jumia.com.ng/slp/glass-top-jewelry-display-box",
+      "note": "Divided clear-box category; compartment count and dimensions unconfirmed.",
+      "title": "Transparent jewelry storage box for earrings, rings, beads, sewing accessories, necklaces",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Transparent Film Floating Jewellery Frame",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Transparent%20Film%20Floating%20Jewellery%20Frame",
+    "comparison": {
+      "price_ngn": 4836,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Transparent%20Film%20Floating%20Jewellery%20Frame",
+      "source_url": "https://www.jumia.com.ng/slp/acrylic-wall-mount-floating-frame",
+      "note": "FOUR-PIECE PACK versus one supplier frame. Frame size, base and film not matched; not unit-normalised.",
+      "title": "3D Floating Display Frame for Coins Jewelry Medals (4Pcs)",
+      "observed_at": "2026-10-29",
+      "method": "Public search-index result; not checkout verification"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Blue Resin and Wood-Style Ring Box",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Blue%20Resin%20and%20Wood-Style%20Ring%20Box",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Blue%20Resin%20and%20Wood-Style%20Ring%20Box",
+      "source_url": null,
+      "note": "Do not infer a price from a different product, missing price, or non-Nigerian result."
+    }
+  },
+  {
+    "id": 32,
+    "name": "Clear PET Desktop Accessory Basket",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Clear%20PET%20Desktop%20Accessory%20Basket",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Clear%20PET%20Desktop%20Accessory%20Basket",
+      "source_url": null,
+      "note": "Do not infer a price from a different product, missing price, or non-Nigerian result."
+    }
+  },
+  {
+    "id": 33,
+    "name": "Clear C-Shaped Watch and Bracelet Stand",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Clear%20C-Shaped%20Watch%20and%20Bracelet%20Stand",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Clear%20C-Shaped%20Watch%20and%20Bracelet%20Stand",
+      "source_url": null,
+      "note": "A similar C-shaped stand appeared on Jumia Kenya only. Kenyan-shilling prices were excluded; Nigeria price remains pending."
+    }
+  },
+  {
+    "id": 34,
+    "name": "Three-Tier Detachable Bracelet Stand",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Three-Tier%20Detachable%20Bracelet%20Stand",
+    "comparison": {
+      "price_ngn": 25999,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Three-Tier%20Detachable%20Bracelet%20Stand",
+      "source_url": "https://www.jumia.com.ng/slp/2-tier-bracelet-stand-gold",
+      "note": "Three-tier detachable format comparable; exact material and measurements unconfirmed.",
+      "title": "Three Tier Detachable Jewelry Display Stand",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Seventeen-Hook Necklace Display Board",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Seventeen-Hook%20Necklace%20Display%20Board",
+    "comparison": {
+      "price_ngn": 24400,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Seventeen-Hook%20Necklace%20Display%20Board",
+      "source_url": "https://www.jumia.com.ng/slp/organize-jewelry-for-convenience",
+      "note": "Board function only; hook count, cover and dimensions not matched.",
+      "title": "Jewelry Display Board",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Fabric-Covered Wooden Bangle Cone",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Fabric-Covered%20Wooden%20Bangle%20Cone",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Fabric-Covered%20Wooden%20Bangle%20Cone",
+      "source_url": null,
+      "note": "Do not infer a price from a different product, missing price, or non-Nigerian result."
+    }
+  },
+  {
+    "id": 37,
+    "name": "Eighteen-Slot Eyeglasses Storage Case",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Eighteen-Slot%20Eyeglasses%20Storage%20Case",
+    "comparison": {
+      "price_ngn": 80640,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Eighteen-Slot%20Eyeglasses%20Storage%20Case",
+      "source_url": "https://www.jumia.com.ng/mlp-glass-display-case/",
+      "note": "18-slot capacity comparable; cross-border result, brand and lining unconfirmed; high-price outlier.",
+      "title": "18 Slots Eyeglasses Storage Box Sunglasses Organizer Display Case Glasses Holder",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Plush-Lined Desktop Eyeglasses Holder",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Plush-Lined%20Desktop%20Eyeglasses%20Holder",
+    "comparison": {
+      "price_ngn": 15708,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Plush-Lined%20Desktop%20Eyeglasses%20Holder",
+      "source_url": "https://www.jumia.com.ng/slp/glasses-holder-for-head",
+      "note": "Plush-lined desktop holder comparable; Jumia description says DOUBLE holder versus supplier single holder. Not unit-normalised.",
+      "title": "PU Eyeglass Stand Plush Lined Protective Case Black PU Leather",
+      "observed_at": "2026-10-29",
+      "method": "Public search-index result; not checkout verification"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Clear Acrylic Tiered Eyeglasses Stand",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Clear%20Acrylic%20Tiered%20Eyeglasses%20Stand",
+    "comparison": {
+      "price_ngn": 11999,
+      "match": "Comparable only \u2014 not verified identical",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Clear%20Acrylic%20Tiered%20Eyeglasses%20Stand",
+      "source_url": "https://www.jumia.com.ng/slp/glasses-accessories",
+      "note": "Five-tier function comparable; Jumia text says black plastic rather than clear acrylic.",
+      "title": "5 Tiers Eyeglasses Holder Sunglasses Display Rack Organizer for Glasses",
+      "method": "Public search-index result; not checkout verification",
+      "observed_at": "2026-10-29"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Wood-Look Multi-Pair Eyeglasses Rack",
+    "search_url": "https://www.jumia.com.ng/catalog/?q=Wood-Look%20Multi-Pair%20Eyeglasses%20Rack",
+    "comparison": {
+      "price_ngn": null,
+      "match": "Pending \u2014 no reliable product-specific price found",
+      "search_url": "https://www.jumia.com.ng/catalog/?q=Wood-Look%20Multi-Pair%20Eyeglasses%20Rack",
+      "source_url": null,
+      "note": "Do not infer a price from a different product, missing price, or non-Nigerian result."
+    }
+  }
+]
