@@ -1,0 +1,23 @@
+{
+  "result": "PASS",
+  "desktop": "1440x1000",
+  "mobile": "390x844",
+  "checks": [
+    "5x40 daily grids",
+    "200 all view",
+    "search",
+    "15 conditional freight",
+    "185 pending freight",
+    "2 pending market comparisons",
+    "exact buyer headings",
+    "dialog and escape",
+    "calculator and reset",
+    "separate battery-rate calculation",
+    "CSV download",
+    "all200 embedded main images load",
+    "no mobile overflow",
+    "modular offline page",
+    "no JavaScript errors"
+  ],
+  "errors": []
+}

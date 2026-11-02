@@ -1,0 +1,255 @@
+{
+  "1": {
+    "weight_g": 300,
+    "packing_cm": [
+      10,
+      10,
+      5
+    ],
+    "selected_variant": "Digital USB-C second-generation earphones with crystal box",
+    "facts": "Semi-in-ear wired design; digital USB-C option; inline phone controls; supplier specifies1.2m cable.",
+    "note": "Supplier packing table says300g/10×10×5cm for every variant. Heavy for earphones; not independently weighed. Keep conditional scenario and reconfirm. Do not assume analog USB-C or Lightning variants are electrically equivalent.",
+    "url": "https://detail.1688.com/offer/947674124208.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "11": {
+    "weight_g": 65,
+    "packing_cm": null,
+    "selected_variant": "B65 black two-pair wireless earphone combo",
+    "facts": "ABS semi-in-ear wireless earphones; B65 combo-case design; supplier lists Bluetooth6.0 and display.",
+    "note": "Variant table65g for B65 colours; no packed dimensions. CNY23.80 shown. No independent Bluetooth, runtime, water-resistance or test-document verification. Page advertises48h dispatch only up to2sets; not a bulk promise.",
+    "source_price_cny": 23.8,
+    "dispatch": "Supplier reader advertises48h for≤2sets only; bulk quantity and current stock must be confirmed.",
+    "url": "https://detail.1688.com/offer/1059106234470.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "21": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Black G200 configuration; packing conflict unresolved",
+    "facts": "Bluetooth5.3 claimed; ABS housing; RGB lights, card playback and TWS pairing described. Supplier explicitly says not waterproof.",
+    "note": "Packing row90g versus product net160g. No numeric freight until conflict resolved. Multiple different speaker models share this offer;65×65×50mm is specification, not packed dimensions. Do not transfer sibling packing weights.",
+    "url": "https://detail.1688.com/offer/1062731869839.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "31": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "8001U USB wired computer headset",
+    "facts": "Over-ear wired USB headset with microphone; supplier lists2.2m cable and40mm drivers.",
+    "note": "Packing table80g versus attribute weight308g: contradictory. Freight pending. Brand fieldOther despite HP wording in title; no verified HP authorship. USB blue lighting is not Blu-ray connectivity;7.1 processing not independently verified.",
+    "url": "https://detail.1688.com/offer/1084474605131.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "41": {
+    "weight_g": 30,
+    "packing_cm": [
+      3.1,
+      2.2,
+      5.8
+    ],
+    "selected_variant": "White5V1A single USB charger; bare-unit configuration",
+    "facts": "Single-USB5V1A charger option; domestic China plug standard; not a promise of fast charging.",
+    "note": "Generic30g/3.1×2.2×5.8cm packing row; bare-unit scenario only, outer retail packing unknown. Voltage-input label and Nigeria-compatible plug must be confirmed. CCC number is a supplier claim, not Nigerian certification.",
+    "url": "https://detail.1688.com/offer/611014399341.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "51": {
+    "weight_g": 12,
+    "packing_cm": null,
+    "selected_variant": "Black100cm five-core USB-C data-cable version; price to quote",
+    "facts": "Flat PVC USB-C cable; length choices10–100cm; separate three-core charging and five-core data versions.",
+    "note": "All lengths12g in packing table; uniform value unverified. TitlePD60W, specification2A and maximum-power field2 conflict: no guaranteed60W claim. CatalogueCNY0.75 is minimum; selected colour panelCNY1.10 is not bound to captured length selection. Reader says10day dispatch commitment for51+units, not guaranteed immediate stock.",
+    "dispatch": "Reader says51+units estimated13h dispatch but commitment10days; reconfirm selected length/quantity.",
+    "url": "https://detail.1688.com/offer/1036643593214.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "61": {
+    "weight_g": 313,
+    "packing_cm": [
+      16.5,
+      10.5,
+      3.8
+    ],
+    "selected_variant": "Black boxed10000mAh C001 power bank",
+    "facts": "Lithium-polymer power bank; nominal10000mAh cell capacity; stated5V output and10W maximum; PC+ABS housing.",
+    "note": "Selected BOXED10000 row313g/16.5×10.5×3.8cm. Bare10000 is223g;20000mAh versions are408g bare/486g boxed. Do not interchange. Rated-capacity attribute4770 is separate from nominal10000; usable energy not tested. CCC and airline claims unverified. Replaced ambiguous capsule offer922026258857 which used kit/material terminology. Reader chunk1 shows10000 CNY19.90/20000 CNY36.90, but box/colour selection not bound to captured price; retain original CNY37.90 catalogue observation rather than misstate a boxed-unit price.",
+    "dispatch": "Reader advertises48h dispatch for≤2units, not a bulk or cargo-transit guarantee.",
+    "url": "https://detail.1688.com/offer/845304752534.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "71": {
+    "weight_g": 336,
+    "packing_cm": [
+      21.5,
+      10,
+      6.9
+    ],
+    "selected_variant": "White DC-2 clock/light wireless charging station",
+    "facts": "Desktop wireless-charging station with clock, alarm, light and temperature-display functions described.",
+    "note": "336g/21.5×10×6.9cm packing both colours. Supplier says NO magnetic charging. Wireless phone compatibility, adapter inclusion and possible clock-backup cell require confirmation. Treat normal-cargo model only if no restricted battery is supplied.",
+    "url": "https://detail.1688.com/offer/721901401117.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "81": {
+    "weight_g": 150,
+    "packing_cm": [
+      13.5,
+      9.5,
+      5
+    ],
+    "selected_variant": "Black six-button luminous game edition, W1/PW1",
+    "facts": "Wired USB optical mouse; selected six-button light-up model; five DPI settings described; approximate120×78×38mm body.",
+    "note": "150g/13.5×9.5×5cm packing for each variant. Three-button business option also offered; quote selected six-button price. Claimed4000DPI not bench tested. Original brand fieldinphic retained.",
+    "url": "https://detail.1688.com/offer/620749333647.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "91": {
+    "weight_g": 800,
+    "packing_cm": null,
+    "selected_variant": "Black tri-mode blue-switch DK63",
+    "facts": "Compact mechanical keyboard; wired, Bluetooth and receiver-based modes described;295×115×26mm product size.",
+    "note": "Packing table800g. Attribute incorrectly labels800KG, so use explicitly gram-labelled packing row only. No packed dimensions. Product size is NOT packed size. Brand Chinese前行者 renderedPioneer by reader; keepOther unless original English brand for this offer is substantiated.",
+    "url": "https://detail.1688.com/offer/1002682433289.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "101": {
+    "weight_g": 60,
+    "packing_cm": [
+      20,
+      12,
+      3.5
+    ],
+    "selected_variant": "Black pearlescent-bag basic four-port hub",
+    "facts": "USB computer hub with four downstream ports; basic bagged and full-USB3 configurations are separate options.",
+    "note": "Bagged black60g/20×12×3.5cm. Blister, long-lead, switched and full3.0 options have different weights. Title USB3.0 does not establish all ports are3.0; exact controller/port speed and current budget must be confirmed.",
+    "url": "https://detail.1688.com/offer/661666427992.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "111": {
+    "weight_g": 118,
+    "packing_cm": [
+      9,
+      5,
+      11
+    ],
+    "selected_variant": "Q8 1080 neutral webcam",
+    "facts": "USB ABS webcam with built-in microphone; selected Q8 1080 version. Higher-resolution Q26 options are separate.",
+    "note": "Q8 1080 packing118g/9×5×11cm.720 version87g is marked out of stock; not used. Generic198g attribute differs across variants; use explicit selected row. Reader says fastest shipping4–7days; no immediate-dispatch promise. Compass is translated Chinese brand, not supported original English.",
+    "dispatch": "Supplier attribute lists4–7days as fastest shipping; exact Q8 1080 stock/quantity require confirmation.",
+    "url": "https://detail.1688.com/offer/864575217963.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "121": {
+    "weight_g": 330,
+    "packing_cm": [
+      8.5,
+      8.5,
+      35
+    ],
+    "selected_variant": "I-shaped metal touch lamp, sand black",
+    "facts": "Metal-base I-shape LED lamp; USB-C charging; three-colour stepless dimming described;800mAh option.",
+    "note": "Generic packing330g/8.5×8.5×35cm; confirm with chosen finish. Runtime6h and CE statements not verified. This is an accent table lamp; eye-protection certification not established.",
+    "url": "https://detail.1688.com/offer/996325301027.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "131": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Warm-light20cm rechargeable sensor strip; exact weight pending",
+    "facts": "PVC LED motion-sensor strip; built-in battery;10,20,30 and50cm light options listed.",
+    "note": "Generic300g packing entry is NOT linked to selected length; no dimensions. Do not assign generic weight to20cm variant.50cm overall dimension is product size, not selected packing. Freight pending; lifetime500000h claim not adopted.",
+    "url": "https://detail.1688.com/offer/857556479096.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "141": {
+    "weight_g": 18,
+    "packing_cm": [
+      7.5,
+      2.2,
+      2.2
+    ],
+    "selected_variant": "White KL-001 USB rechargeable mini torch, OPP bag",
+    "facts": "Small plastic LED torch with keychain; stated60mAh battery; USB charging; simple steady-light use.",
+    "note": "18g/7.5×2.2×2.2cm variant packing. Body≈5.33cm; no flash warning mode. Outer-carton descriptions conflict:500vs480units,12kgvs9kg, differing boxes. Only per-unit scenario shown; carton allocation pending. Karazan is translated Chinese brand, keepOther.",
+    "url": "https://detail.1688.com/offer/608854621165.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "151": {
+    "weight_g": 200,
+    "packing_cm": [
+      18.5,
+      8.3,
+      6.3
+    ],
+    "selected_variant": "638 high-speed fan, black",
+    "facts": "Rechargeable handheld fan; digital-display design in title; brushless motor; five blades described.",
+    "note": "Packing attribute185×83×63mm converted to18.5×8.3×6.3cm; packing table200g. Title100speeds versus attributes3settings, battery300–500mAh and0–1h runtime: no100-speed or all-day claim. Do not confuse a fruit-fan option with selected638.",
+    "url": "https://detail.1688.com/offer/998287309793.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "161": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "V70 USB-C clip-on wireless microphone kit",
+    "facts": "V70 clip-on microphone for phone video and interviews; USB-C receiver configuration; charging-case format shown.",
+    "note": "Generic packed89g versus attribute120g; kit contents/onevsdual transmitters unclear. Freight pending despite7.78×7.78×2.83cm generic table. Signal range, Bluetooth and noise-reduction claims unverified; confirm receiver compatibility.",
+    "url": "https://detail.1688.com/offer/1067606671118.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "171": {
+    "weight_g": 135,
+    "packing_cm": [
+      16.7,
+      11.1,
+      9
+    ],
+    "selected_variant": "Gravity-style folding adjustable suction-base holder, no charger or plate",
+    "facts": "XAYVG gravity-style folding suction phone holder; adjustable viewing angle; selected plain suction model.",
+    "note": "135g/16.7×11.1×9cm selected packing. Vent90g and bundles165/195g are separate. Title saysmagnetic but variant describesgravity; name corrected to inspected variant, not magnetic charging. No20W charging claim: attribute conflicts with non-rechargeable status.",
+    "url": "https://detail.1688.com/offer/1033373647358.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "181": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "4.8A display Bluetooth-player option with box; quote exact unit",
+    "facts": "Vehicle-socket charger and Bluetooth audio-player configuration; display, USB outputs and multiple option bundles.",
+    "note": "Packing table35g across all models vs product90g. Input5–12V and output12–24VmA labels are inconsistent. No credible freight or electrical rating until corrected.13×6×13cm row not sufficient to override mass conflict.",
+    "url": "https://detail.1688.com/offer/742657692340.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "191": {
+    "weight_g": 130,
+    "packing_cm": [
+      14,
+      9,
+      3
+    ],
+    "selected_variant": "D8 black silicone, no additional steel strap",
+    "facts": "D8 Bluetooth smartwatch; TFT display and magnetic charging described; supplier explicitly says NOT waterproof.",
+    "note": "Reader chunks1–2 show selectedD8black silicone130g/14×9×3cm. D8withsteel200g and D8pro200–260g are different. Title TWS combo but generic packing list does not explicitly include earbuds: confirm kit before purchase. iOS listed; Android/app compatibility and language need verification. Health/GPS claims are not medically or technically validated.",
+    "url": "https://detail.1688.com/offer/944524339151.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  }
+}

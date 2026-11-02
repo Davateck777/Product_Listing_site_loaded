@@ -1,0 +1,17 @@
+{
+  "url": "https://dechaser.com/china-to-nigeria-shipping/",
+  "checked": "2026-11-02",
+  "reader_chunk": 2,
+  "normal_tiers": {
+    "1\u201310kg_usd_kg": 20.5,
+    "11\u201319kg_usd_kg": 16.98,
+    "20kg+office_usd_kg": 12.9,
+    "20kg+Lagosdoor_usd_kg": 14.88,
+    "20kg+otherstates_usd_kg": 16.58
+  },
+  "battery_usd_kg": 15.5,
+  "clearing_ngn_kg": 1500,
+  "normal_transit": "7\u201310days published",
+  "battery_transit": "15\u201325workingdays published",
+  "note": "Battery final-mile coverage unspecified. Supplier dispatch and cargo transit differ; neither proves delivery. Duty, VAT, inspection, insurance and other costs extra/unconfirmed. Divisor6000 is a planning assumption, not a confirmed forwarder rule."
+}
