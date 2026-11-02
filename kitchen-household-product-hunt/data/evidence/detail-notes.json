@@ -1,0 +1,258 @@
+{
+  "1": {
+    "weight_g": 80,
+    "packing_cm": null,
+    "source_price_cny": 0.48,
+    "selected_variant": "Orange or green, OPP bag",
+    "facts": "PP plastic body; manual peel-collection compartment; orange or green; supplier net40g and packed80g",
+    "note": "Reader inspected supplier attributes, packing and selected CNY0.48 options; catalogue had CNY0.82. Packed80g is distinct from net40g.",
+    "url": "https://detail.1688.com/offer/1092748022908.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "11": {
+    "weight_g": 58,
+    "packing_cm": [
+      24,
+      5.6,
+      3
+    ],
+    "selected_variant": "Bow ginger grater",
+    "note": "Bow ginger grater packing58g and24×5.6×3cm; other grater styles on same offer have different weights. Catalogue starting price not yet matched to this option. Selected detail price USD0.22; not a CNY quote.",
+    "selected_price_usd": 0.22,
+    "url": "https://detail.1688.com/offer/725450602119.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "21": {
+    "weight_g": 120,
+    "packing_cm": [
+      29.7,
+      8,
+      3
+    ],
+    "selected_variant": "Black or red, bagged, no cardboard",
+    "facts": "Manual double-blade preparation tool; stainless steel and PP; modelP-35; bagged and carded variants",
+    "note": "Bagged120g at29.7×8×3cm; carded125g at31×9×3cm. Auto-translated brand is not original English branding. Selected detail price USD0.42; not a CNY quote.",
+    "selected_price_usd": 0.42,
+    "url": "https://detail.1688.com/offer/890994488469.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "31": {
+    "weight_g": 2500,
+    "packing_cm": null,
+    "source_price_cny": 26.5,
+    "selected_variant": "Square wooden board, SG-082301",
+    "facts": "Wooden square board; modelSG-082301; supplier gives2000g item and2500g packing",
+    "note": "Title says bamboo, attributes say wood; exact species/finish unverified. Do not repeat antibacterial claim. Net2000g and packed2500g are different fields, not two freight choices.",
+    "url": "https://detail.1688.com/offer/968187163737.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "41": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Eight-piece wooden utensil set",
+    "note": "Packing90g is generic while listing includes18–39cm tools and eight-piece set. Cannot assign that weight to the catalogue CNY35 set; freight pending.",
+    "source_price_cny": 35,
+    "url": "https://detail.1688.com/offer/660512030503.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "51": {
+    "weight_g": 76,
+    "packing_cm": [
+      11.5,
+      11.5,
+      34
+    ],
+    "source_price_cny": 3.7,
+    "selected_variant": "D11.5cm skimmer (not54cm variant)",
+    "facts": "Stainless steel mesh skimmer, modelDT-Y0501; selectedD11.5cm head; supplier packing11.5×11.5×34cm and76g",
+    "note": "D14cm isCNY7.5/191g; D14.5cm CNY6.5/144g;14×15.5cm CNY5.9/84g. SelectedD11.5cm isCNY3.7/76g. Volumetric scenario may dominate.",
+    "url": "https://detail.1688.com/offer/1077207567424.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "61": {
+    "weight_g": 80,
+    "packing_cm": [
+      17,
+      5,
+      5
+    ],
+    "source_price_cny": 1.2,
+    "selected_variant": "YL170 multipurpose egg-steaming rack",
+    "facts": "Supplier-described410 stainless steel; multipurpose egg-steaming rack; modelYL170; packing17×5×5cm and80g",
+    "note": "CNY1.20 selected option, not a whole steamer pot. Pot compatibility must be checked.",
+    "url": "https://detail.1688.com/offer/901997041959.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "71": {
+    "weight_g": 90,
+    "packing_cm": [
+      18.5,
+      14,
+      2
+    ],
+    "selected_variant": "Cream, grey or black plastic rest",
+    "facts": "PP plastic; foldable cat-ear lid and utensil rest; model005; packed18.5×14×2cm and90g",
+    "note": "Detail page displayed EUR0.30, not CNY; CNY field retains explicitly labelled catalogue observation. Design patent claimed; check rights before ordering.",
+    "url": "https://detail.1688.com/offer/750369373479.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "81": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Six-piece set;120ml/240ml/520ml/1L/1.5L/2.7L",
+    "facts": "PP rectangular food-storage set; selected six capacities120ml,240ml,520ml,1L,1.5L and2.7L; no insulation claim",
+    "note": "Set packing table says3000g at26×19.5×10.5cm but component weights sum807g. Set weight unresolved; no freight estimate. Do not apply34g single120ml weight to six-piece set. Selected full six-piece set CNY19; CNY1.60 is only120ml.",
+    "source_price_cny": 19,
+    "url": "https://detail.1688.com/offer/1031632199971.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "91": {
+    "weight_g": 1200,
+    "packing_cm": [
+      17,
+      17,
+      26
+    ],
+    "selected_variant": "1.5L natural steel colour, lunch style",
+    "facts": "Stainless steel meal carrier;1.5L selected; alternatives2L and2.3L; non-electric; modelJY-bo05",
+    "note": "Explicit1.5L detail packing1.2kg at17×17×26cm; generic table1000g not used.1.5L carton15kg/12≈1.25kg each; outer-carton/rounding still unresolved. Not a verified insulation-duration claim. Selected detail price USD8.01; not a CNY quote.",
+    "selected_price_usd": 8.01,
+    "url": "https://detail.1688.com/offer/794695624480.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "101": {
+    "weight_g": 200,
+    "packing_cm": null,
+    "selected_variant": "100ml, acacia-wood lid",
+    "facts": "Glass cylindrical dry-spice jar;100ml option; acacia-wood lid selected; other metal/plastic lids offered",
+    "note": "Supplier packing200g for100ml variants; no dimensions. Fuyu is an automatic translation, not supported original English brand. Catalogue starting price may refer to another lid. Selected detail price USD0.2; not a CNY quote.",
+    "selected_price_usd": 0.2,
+    "url": "https://detail.1688.com/offer/987542068402.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "111": {
+    "weight_g": 68,
+    "packing_cm": [
+      20,
+      19,
+      1.8
+    ],
+    "source_price_cny": 3.99,
+    "selected_variant": "Small, open20×20×10cm",
+    "facts": "Folding Oxford-cloth food cover with aluminium film and pearl-cotton layers; small20×20×10cm; OPP packing",
+    "note": "Small packed68g; folded20×19×1.8cm. Large140g/36×36×15cm is a different variant. No verified heat-retention duration.",
+    "url": "https://detail.1688.com/offer/556710128172.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "121": {
+    "weight_g": null,
+    "packing_cm": null,
+    "source_price_cny": 1.25,
+    "selected_variant": "Clear small50-bag pack",
+    "facts": "PE disposable piping bags; selected clear small50-bag pack; multiple other sizes and quantities",
+    "note": "Selected50-pack CNY1.25, not minimumCNY1 mini. Generic300g is not assigned to a specific size or pack; freight pending.",
+    "url": "https://detail.1688.com/offer/627122714305.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "131": {
+    "weight_g": 500,
+    "packing_cm": [
+      16,
+      16,
+      8
+    ],
+    "source_price_cny": 19.5,
+    "selected_variant": "Boxed square-handle6spoons+5cups+430coffee clip",
+    "facts": "430 stainless steel measuring kit; selected boxed square-handle six spoons, five cups and coffee clip",
+    "note": "Boxed selected kit500g/16×16×8cm/CNY19.50. CNY1.90 minimum is a single20ml spoon, not the kit.",
+    "url": "https://detail.1688.com/offer/803546475287.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "141": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "B00 small cup; exact CNY quote pending",
+    "facts": "BAKESE aluminium-alloy pudding/cake cup; B00 item top5.5cm, base3.5cm, height3.8cm; other sizes offered",
+    "note": "Generic30g cannot be matched to B00 among many sizes; item dimensions are not packed dimensions. Reader EUR0.21 minimum is not CNY. Supplier text mentions CNY500 or100items, mixed≥10/style; reconfirm.",
+    "url": "https://detail.1688.com/offer/1243852564.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "151": {
+    "weight_g": 150,
+    "packing_cm": [
+      20,
+      15,
+      6.5
+    ],
+    "source_price_cny": 8.5,
+    "selected_variant": "Four football cavities, blue",
+    "facts": "SHY silicone ice mould; selected four football cavities; model06; blue option",
+    "note": "Selected four-football variant CNY8.50 and packed150g/20×15×6.5cm. Baseball200g variants are different.",
+    "url": "https://detail.1688.com/offer/934857168187.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "161": {
+    "weight_g": 300,
+    "packing_cm": [
+      23,
+      9,
+      10.7
+    ],
+    "selected_price_usd": 0.27,
+    "selected_variant": "Plastic rectangular caddy with hanging rod",
+    "facts": "Plastic rectangular sink-side sponge caddy with cloth rod; cream, grey or black;23×9×10.7cm packing",
+    "note": "All selected colours packed300g; detail USD0.27 is not CNY. Original English brand not supported; retain Other.",
+    "url": "https://detail.1688.com/offer/984497678903.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "171": {
+    "weight_g": 100,
+    "packing_cm": null,
+    "source_price_cny": 2.3,
+    "selected_variant": "Long-handle dispensing brush, green or white",
+    "facts": "Plastic manual long-handle dish brush with rotating head and soap reservoir; green or white",
+    "note": "Packed100g, dimensions absent. Limited promotion CNY2.07; use normal displayed dropship CNY2.30 conservatively.",
+    "url": "https://detail.1688.com/offer/1089601901491.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "181": {
+    "weight_g": null,
+    "packing_cm": null,
+    "source_price_cny": 4.8,
+    "selected_variant": "31cm seven-slot rack",
+    "facts": "Wooden plate organiser; selected31cm seven-slot version; other lengths and a two-tier option",
+    "note": "Generic180g and31×13×2cm packing cannot confidently be assigned across13sizes; freight pending. Selected31cm CNY4.80; minimum14cm CNY2.60 is not this variant.",
+    "url": "https://detail.1688.com/offer/680815843233.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  },
+  "191": {
+    "weight_g": 82,
+    "packing_cm": null,
+    "selected_price_usd": 0.56,
+    "selected_variant": "100ml PP sprayer; green, cream or yellow",
+    "facts": "Manual downward-spray oil bottle; PP body;100ml; green, off-white or yellow; supplier packed82g",
+    "note": "Attribute and packing both82g; no dimensions. Selected detail USD0.56, not CNY; catalogue CNY observation kept separately.",
+    "url": "https://detail.1688.com/offer/1089088424966.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier text/packing and variant tables; supplier claims, not independent certification"
+  }
+}
