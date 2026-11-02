@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "products": 200,
+  "days": {
+    "1": 40,
+    "2": 40,
+    "3": 40,
+    "4": 40,
+    "5": 40
+  },
+  "main_images": 200,
+  "supplier_detail_pages": 10,
+  "conditional_freight": 8,
+  "pending_freight": 192,
+  "broad_jumia_context": 178,
+  "pending_jumia": 22,
+  "identical_jumia_matches": 0,
+  "description_words_min": 152,
+  "description_words_max": 174,
+  "errors": []
+}

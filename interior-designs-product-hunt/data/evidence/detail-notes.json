@@ -1,0 +1,124 @@
+{
+  "1": {
+    "weight_g": 150,
+    "packing_cm": null,
+    "selected_variant": "48×48cm cover; red European-pattern option",
+    "facts": "Plush jacquard-style cushion cover,48×48cm; multiple red, blue, beige and coffee pattern choices; cover category, not a confirmed filled cushion",
+    "note": "Variant packing table gives150g for48×48cm covers; no packed dimensions. CatalogueCNY5.60 retained as starting observation; selected checkout price not inspected.",
+    "url": "https://detail.1688.com/offer/993211900683.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "11": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "45×275cm long runner; price needs confirmation",
+    "facts": "Polyester-fibre crinkled voile runner; plain-colour options;45×275cm long version selected for research",
+    "note": "Offer also includes50×50cm square cloths and several lengths. MinimumCNY1.50 must not be treated as the45×275cm runner price. Packing table begins with unfolded-looking dimensions; no selected-variant packed quote captured. Freight pending.",
+    "url": "https://detail.1688.com/offer/829867227702.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "21": {
+    "weight_g": 8,
+    "packing_cm": null,
+    "source_price_cny": 2.5,
+    "selected_variant": "21×27cm oval mat, beige or white",
+    "facts": "Oval polyester-lace decorative mat; selected21×27cm; beige or white; larger29×37cm and31×42cm options also listed",
+    "note": "Selected21×27cm isCNY2.50 and8g in supplier packing table.14g and17g belong to larger options. Item measurements are not packed dimensions; weight-only lower bound.",
+    "url": "https://detail.1688.com/offer/1050232019023.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "31": {
+    "weight_g": 20,
+    "packing_cm": [
+      8,
+      8,
+      8
+    ],
+    "source_price_cny": 1.2,
+    "selected_variant": "Printed PVC coaster; custom design must be quoted",
+    "facts": "PVC coaster; supplier describes3mm thickness and UV printing; round, square and irregular shapes offered",
+    "note": "Published generic packing8×8×8cm/20g.8cm packing height is unusual for a3mm coaster and must be reconfirmed. Conditional volumetric scenario only. MOQ200 displayed and up to10days dispatch commitment; not confirmed ready stock.",
+    "url": "https://detail.1688.com/offer/1075533912649.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "41": {
+    "weight_g": 552,
+    "packing_cm": [
+      40,
+      8,
+      8
+    ],
+    "selected_variant": "45×70cm red double-stripe mat; quote exact price",
+    "facts": "Rectangular double-stripe entrance mat; selected45×70cm; supplier attributes polyester and PVC edge treatment; rolls rather than folds",
+    "note": "Selected packing40×8×8cm/552g; larger sizes have much higher weights. CatalogueCNY6.46 is only a starting price. Title PVC and attributes polyester describe different material aspects; exact backing needs confirmation.",
+    "url": "https://detail.1688.com/offer/637001346873.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "111": {
+    "weight_g": 100,
+    "packing_cm": [
+      16,
+      16,
+      1
+    ],
+    "source_price_cny": 4,
+    "selected_variant": "30×30×48cm giraffe-print mesh basket",
+    "facts": "Foldable mesh laundry basket; giraffe pattern; open size30×30×48cm; white or black print options",
+    "note": "Selected packing16×16×1cm/100g. Reader showsUSD0.60 but its Chinese variant panel explicitly showsCNY4.00, which is used. Reed is an automatic brand translation; keepOther.",
+    "url": "https://detail.1688.com/offer/690418132753.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "131": {
+    "weight_g": 100,
+    "packing_cm": null,
+    "selected_price_usd": 0.14,
+    "selected_variant": "Square PP tissue box,11.5×11.5×7.5cm item size",
+    "facts": "PP square tissue dispenser; item11.5×11.5×7.5cm; yellow, blue, white, pink, green and orange options",
+    "note": "Packing100g; no packed dimensions. Item dimensions must not be used as packing. Selected priceUSD0.14, NOT a supplier CNY quote; catalogue CNY0.86 separately retained.",
+    "url": "https://detail.1688.com/offer/649878699739.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "151": {
+    "weight_g": 100,
+    "packing_cm": null,
+    "selected_price_usd": 2.01,
+    "selected_variant": "Black five-hook,120mm specification",
+    "facts": "Aluminium over-door hook rack; selected black five-hook120mm option; other hook counts and lengths listed",
+    "note": "Supplier variant table lists100g for all36 combinations; this uniform value is unverified and needs reconfirmation. No packed dimensions. Selected120mm USD2.01; no invented door-clearance or load claim.",
+    "url": "https://detail.1688.com/offer/994695898627.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "161": {
+    "weight_g": 45,
+    "packing_cm": [
+      20,
+      12,
+      3
+    ],
+    "selected_variant": "One magnetic tieback, grey",
+    "facts": "Polyester magnetic curtain tieback; headphone-style buckle; single-piece price basis; multiple colours",
+    "note": "Packing single45g/20×12×3cm versus attribute pair≈96g. Model ONE piece, not a pair. Reader EUR0.28 is not CNY; catalogueCNY2.70 remains a starting observation. Magnetic cargo may require forwarder acceptance; normal-cargo scenario conditional.",
+    "url": "https://detail.1688.com/offer/623581814815.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  },
+  "181": {
+    "weight_g": null,
+    "packing_cm": null,
+    "source_price_cny": 7.5,
+    "selected_variant": "Metal L-shaped bookend set; size and quantity need quote",
+    "facts": "Metal L-format desktop book support; black, blue, white and grey; multiple size categories",
+    "note": "Generic net100g and packing650g cannot be matched across small/medium/large/extra-large sizes or set quantity. Freight pending. PriceCNY7.50 per set shown; dropship panel saysMOQ2000pieces, so unit/MOQ must be reconfirmed.",
+    "url": "https://detail.1688.com/offer/1000702819061.html",
+    "checked": "2026-11-02",
+    "method": "fetch_page rendered supplier attributes/packing text; supplier assertions, not independent testing"
+  }
+}
