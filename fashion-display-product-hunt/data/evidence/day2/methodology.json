@@ -1,0 +1,35 @@
+{
+  "day": 2,
+  "author": "DAVE ADEX",
+  "category": "Fashion&Display",
+  "checked": "2026-11-02",
+  "image_policy": "One main image only per product; no support images.",
+  "freight": {
+    "source": "https://dechaser.com/china-to-nigeria-shipping/",
+    "published_updated": "2026-09-17",
+    "service": "Normal cargo, 20kg+ consolidated shipment, door-to-door Lagos",
+    "usd_per_kg": 14.88,
+    "clearing_ngn_per_kg": 1500,
+    "scenario_ngn_per_kg": 21505.5648,
+    "limits": "Allocation only, not a standalone parcel quote. Tier applies to a consolidated shipment of at least20kg. Excludes duties/VAT/levies, China inland delivery, payment/agent charges, repacking and other unquoted costs. Carrier converts at its own exchange rate, not necessarily the reference used here. Actual or volumetric chargeable weight, rounding and minimums need quotation.",
+    "volumetric_divisor_assumption": 6000
+  },
+  "fx": {
+    "usd_ngn": 1344.46,
+    "cny_ngn": 202.082958,
+    "usd_source": "https://www.forbes.com/advisor/money-transfer/currency-converter/usd-ngn/",
+    "cny_source": "https://www.forbes.com/advisor/money-transfer/currency-converter/cny-ngn/",
+    "usd_timestamp": "2026-11-02 12:47 UTC",
+    "cny_timestamp": "2026-11-02 13:37 UTC",
+    "limits": "Reference converter observations, not executable payment/forwarder rates; non-simultaneous cross-rate is indicative."
+  },
+  "planning": {
+    "source_floor_cny": 5.2,
+    "shipping_floor_ngn": 2000,
+    "markup": 1.25,
+    "rounding_ngn": 100,
+    "discounts": "12% target under5000 sale,10% under15000,8% otherwise; compare-at rounded up to100, actual ratio shown. All proposed, not former prices."
+  },
+  "browser": "Playwright inspected40 offers; all40 login/verification blocked. Images from first supplier gallery reader extraction; not falsely described as successfully DOM-inspected.",
+  "jumia": "All40 names searched on Jumia Nigeria via web index.29 relevant broad comparisons,11 pending; no exact-SKU matches certified. Indexed prices may be stale and exclude delivery. No checkout performed."
+}
