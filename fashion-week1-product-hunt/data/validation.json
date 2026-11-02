@@ -1,0 +1,23 @@
+{
+  "result": "PASS",
+  "products": 200,
+  "days": {
+    "1": 40,
+    "2": 40,
+    "3": 40,
+    "4": 40,
+    "5": 40
+  },
+  "wearables": 150,
+  "display": 50,
+  "main_images": 200,
+  "supplier_detail_pages": 20,
+  "conditional_freight": 16,
+  "weight_only_lower_bounds": 8,
+  "pending_freight": 184,
+  "priced_jumia_context": 200,
+  "verified_identical_jumia": 0,
+  "description_words_min": 152,
+  "description_words_max": 174,
+  "errors": []
+}

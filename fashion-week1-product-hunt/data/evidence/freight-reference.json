@@ -1,0 +1,16 @@
+{
+  "url": "https://dechaser.com/china-to-nigeria-shipping/",
+  "checked": "2026-11-02",
+  "published_reference_date": null,
+  "tiers_usd_per_kg": {
+    "1\u201310kg": 20.5,
+    "11\u201319kg": 16.98,
+    "20kg+office": 12.9,
+    "20kg+LagosDoor": 14.88,
+    "20kg+otherstates": 16.58
+  },
+  "clearing_ngn_per_kg": 1500,
+  "published_normal_transit": "7\u201310days; dispatch/origin and delivery not guaranteed",
+  "note": "Rates reused from same-day inspected Dechaser reader chunk2; carrier re-quote, actualFX, minimums, carton/rounding, duties/VAT and acceptance required. Divisor6000 is an assumption, NOT confirmed carrier rule.",
+  "publication_date_note": "Publication date not recorded; reference checked2026-11-02."
+}

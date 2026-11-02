@@ -1,0 +1,201 @@
+{
+  "1": {
+    "weight_g": 20,
+    "packing_cm": null,
+    "selected_variant": "Black/white leopard-print55×55cm scarf",
+    "facts": "Supplier lists a55×55cm twill square scarf with printed leopard pattern and cotton composition.",
+    "note": "Reader chunk0 gives20g per colour.55×55is OPEN PRODUCT SIZE, not a packed length/width/height. Weight-only lower-bound allocation; cotton composition not lab tested.",
+    "checked": "2026-11-02"
+  },
+  "11": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Plain sponge-mesh cap; exact material option needs quote",
+    "facts": "Adjustable adult peaked cap; cotton, polyester, mesh and foam constructions share the offer.",
+    "note": "Reader chunks0–1 show generic80g across multiple cap constructions, not a selected-style row. Withhold freight until selected plain mesh style is weighed. UV protection not certified; custom embroidery may delay dispatch.",
+    "checked": "2026-11-02"
+  },
+  "21": {
+    "weight_g": 80,
+    "packing_cm": null,
+    "selected_variant": "Silver-frame light-grey-lens fashion glasses",
+    "facts": "Non-polarised half-frame glasses; PC lenses; supplier lists26g product weight and80g variant packing weight.",
+    "note": "80g packing row for each lens colour; no packed dimensions.26g is product/net, not substituted for80g. UV400/ANSI claims are not independently verified. Not prescription or certified protective eyewear.",
+    "checked": "2026-11-02"
+  },
+  "31": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Black model815 imitation-leather pin-buckle belt",
+    "facts": "Imitation-leather belt with alloy pin buckle; attribute gives2.8cm width and106cm length.",
+    "note": "Attribute product mass96g exceeds76g packing table for10×10×6cm. Contradictory; shipping pending. No genuine-leather claim adopted.",
+    "checked": "2026-11-02"
+  },
+  "41": {
+    "weight_g": 50,
+    "packing_cm": [
+      13,
+      3,
+      8
+    ],
+    "selected_variant": "Black woven bcbd coin pouch",
+    "facts": "Polyester woven coin pouch with polyester lining; compact everyday accessory format.",
+    "note": "Selected black packing50g/13×3×8cm. Straw-like appearance does not establish natural straw; material field sayspolyester. Confirm closure, key loop and supplied unit.",
+    "checked": "2026-11-02"
+  },
+  "51": {
+    "weight_g": 501,
+    "packing_cm": null,
+    "selected_variant": "Black small PU shoulder/top-handle bag xiaoxiao7477",
+    "facts": "Small PU bag with magnetic flap closure, single shoulder strap and medium firmness; supplier says no lining.",
+    "note": "Variant packing501g for each colour, with no packed dimensions. Translated Yu lan ting is not an original English brand field: keepOther. Usable interior size and strap length need confirmation; not a genuine-leather claim.",
+    "checked": "2026-11-02"
+  },
+  "61": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Black canvas crossbody tote",
+    "facts": "Canvas bag with polyester lining, zip closure, internal phone pocket and an interlayer described.",
+    "note": "Packing180g/40×7×33cm versus attribute200g and customer review500g. Packed mass lower than net and conflicting dimensions: no freight until corrected. No stock assurance adopted.",
+    "checked": "2026-11-02"
+  },
+  "71": {
+    "weight_g": 180,
+    "packing_cm": null,
+    "selected_variant": "Black double-sided striped tote mengge3041",
+    "facts": "Supplier lists cotton/linen-style material, non-woven lining, open top and soft bucket-tote form.",
+    "note": "180g per colour; packed dimensions not supplied. Fabric composition not tested. Open top is not a zip closure. Bag capacity and load limit unverified.",
+    "checked": "2026-11-02"
+  },
+  "81": {
+    "weight_g": 220,
+    "packing_cm": [
+      35,
+      28,
+      3
+    ],
+    "selected_variant": "Black+white thick-stripe30×22×9 knitted pouch",
+    "facts": "Striped knitted bag in shell-shaped format; supplier describes clip/clasp closure and30×22×9cm product size.",
+    "note": "Reader chunk2 has explicit selected thick-stripe packing220g/35×28×3cm. Off-white/khaki is245g/34×27.4×7.3cm and NOT used. Many pattern variants; title uses cosmetic bag but attributes also handbag: included contents and interior structure require confirmation. In-stock text is not independently verified.",
+    "checked": "2026-11-02"
+  },
+  "91": {
+    "weight_g": 1,
+    "packing_cm": null,
+    "selected_variant": "Matte-black keepin1.5cm round-top mini claw, one clip",
+    "facts": "Small GPPS plastic spring claw; supplier lists1.5cm size and multiple colour finishes.",
+    "note": "Reader packing1g/1.6×1.4×1.9cm approximates the bare clip; not credible full protective shipping packing. Use ONLY bare-unit weight lower bound, no volumetric estimate. Outer bag/carton allocation pending. Keep away from young children.",
+    "checked": "2026-11-02"
+  },
+  "101": {
+    "weight_g": 10,
+    "packing_cm": [
+      10,
+      10,
+      5
+    ],
+    "selected_variant": "Black embellished headband",
+    "facts": "Fashion headband with decorative inlay; supplier describes alloy construction.",
+    "note": "Generic selected-colour packing10g/10×10×5cm, not independently measured. Pearl/diamond wording is decorative appearance, not genuine gem certification. Confirm fit, base and packing before freight quotation.",
+    "checked": "2026-11-02"
+  },
+  "111": {
+    "weight_g": 4,
+    "packing_cm": null,
+    "selected_variant": "Gold-tone/white-stone GJ3669 octagonal necklace",
+    "facts": "Octagonal geometric fashion pendant; attribute lists plated copper and zirconia, differing from titanium-steel title.",
+    "note": "Reader shows4g/3×2.6×0.4cm, likely pendant/body envelope rather than full-chain retail packing. Use4g as a weight-only lower bound; chain length, complete-kit weight and outer packing need confirmation. Original no-brand field retainedOther. CNY10.90 per necklace option captured; final checkout unverified.",
+    "checked": "2026-11-02",
+    "source_price_cny": 10.9,
+    "dispatch": "Reader advertises estimated15h and48h commitment; selected quantity/stock must be reconfirmed."
+  },
+  "121": {
+    "weight_g": 5,
+    "packing_cm": null,
+    "selected_variant": "Model10600 red/white glitter-heart pair",
+    "facts": "Heart-shaped artificial-leather earrings; supplier states iron ear posts and handmade processing.",
+    "note": "Reader packing5g/5.6×4.3×0.5cm likely accessory envelope, not full protective retail pack. Weight-only lower bound; confirm pair quantity, hooks and outer packing. Not hypoallergenic. CNY2.90 per pair captured;≥2pairs,100mixed-item rule shown; quote MOQ.",
+    "checked": "2026-11-02",
+    "source_price_cny": 2.9,
+    "dispatch": "Reader promises3day dispatch, not an immediate-stock or arrival guarantee."
+  },
+  "131": {
+    "weight_g": 25,
+    "packing_cm": [
+      12,
+      11,
+      2
+    ],
+    "selected_variant": "duoying WB1166 colour option Money Success-1",
+    "facts": "Round-bead fashion bracelet; multiple natural-stone descriptions and colour combinations share the listing.",
+    "note": "Selected option packing25g/12×11×2cm. No gemstone identity, healing, money, luck or protective benefit is substantiated; bracelet is fashion only. SHEIN in the source title is not the product brand.",
+    "checked": "2026-11-02"
+  },
+  "141": {
+    "weight_g": 3,
+    "packing_cm": [
+      3,
+      3,
+      1
+    ],
+    "selected_variant": "Silver-tone2mm band, supplier size7",
+    "facts": "Plain polished fashion band; supplier describes titanium steel with several widths and ring sizes.",
+    "note": "Selected row3g/3×3×1cm; confirm retail bag/carton and ring sizing before procurement. Alloy composition, plating durability and nickel release not independently tested. Huayu is reader translation of Chinese brand, keepOther.",
+    "checked": "2026-11-02"
+  },
+  "151": {
+    "weight_g": 103,
+    "packing_cm": [
+      19,
+      13,
+      2.2
+    ],
+    "selected_variant": "Fixed small24-grid thick-style RSNN organiser",
+    "facts": "Transparent plastic organiser with24fixed compartments and lid; other compartment layouts are separate options.",
+    "note": "Reader chunk1 explicitly selected fixed24thick103g/19×13×2.2cm. Detachable24is173g/19.5×13.2×3.6cm; do not swap. Attributes say no packaging, so this is an unboxed-unit dimensional scenario and final protective carton allocation is extra. Catalogue starting price not bound to selected24grid option.",
+    "checked": "2026-11-02"
+  },
+  "161": {
+    "weight_g": 230,
+    "packing_cm": [
+      20,
+      14,
+      10
+    ],
+    "selected_variant": "Black-velvet H-neck19cm stand",
+    "facts": "H-shaped necklace storage/display stand with soft covering; selected19cm model.",
+    "note": "Reader chunk1 packing230g/20×14×10cm. Larger24–40cm stands360–600g have different packing. Carton example for20cm may correspond to a different nominal size: no carton allocation assumed. Price for chosen finish/height requires quote.",
+    "checked": "2026-11-02"
+  },
+  "171": {
+    "weight_g": 80,
+    "packing_cm": [
+      15.3,
+      6.5,
+      3.5
+    ],
+    "selected_variant": "Black paper drawer-style watch box",
+    "facts": "Specialty-paper watch gift box with drawer opening; lift-off-lid alternative is a different option.",
+    "note": "Selected drawer box80g/15.3×6.5×3.5cm and CNY1.80. Lift-off-lid60g/14.6×6.6×3.2cm and CNY1.35 NOT used. Box only, no watch or guaranteed cushion. BrandChinese艺卓 remainsOther.",
+    "checked": "2026-11-02",
+    "source_price_cny": 1.8,
+    "dispatch": "Reader advertises48h dispatch for≤10units; bulk quantity/current stock require confirmation."
+  },
+  "181": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Jewelry5.5×4cm No.1 backing cards; selected pack count unresolved",
+    "facts": "Paper/cardboard backing cards for earrings; printed/hot-stamped variants and matching bags offered separately.",
+    "note": "150g/5.5×4×4cm for cards versus100g matching-bag row. Pack count missing:150g is not one card. No freight or per-card conversion until unit and quantity are confirmed. Do not treat matching bags as included.",
+    "checked": "2026-11-02"
+  },
+  "191": {
+    "weight_g": 260,
+    "packing_cm": null,
+    "selected_variant": "Black folding multi-level trouser hanger",
+    "facts": "Plastic folding wardrobe organiser; black/white options, intended for layered garment storage.",
+    "note": "Colour-specific unit packing260g; no dimensions. Attribute110packing quantity likely a carton quantity, not110items per displayed purchase. No multiplication/division assumed. Garment load capacity and wardrobe-rail fit unverified.",
+    "checked": "2026-11-02",
+    "dispatch": "Reader estimates13h dispatch for≤100units; not a verified commitment or arrival date."
+  }
+}
