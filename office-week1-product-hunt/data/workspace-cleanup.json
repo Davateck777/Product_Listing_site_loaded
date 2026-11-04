@@ -1,0 +1,183 @@
+{
+  "scope": "Only new Office temporary research,duplicate inputs and obsolete generators",
+  "files_removed": 43,
+  "bytes_freed": 5584749,
+  "canonical_evidence": "data/evidence/",
+  "original_capture_seed_retained": "../research/office-week1/catalogues.json",
+  "older_catalogues_deleted": false,
+  "zip_created": false,
+  "removed": [
+    {
+      "path": "research/office-week1/tape_dispensers.html",
+      "bytes": 169648
+    },
+    {
+      "path": "research/office-week1/browser-inspection.log",
+      "bytes": 1577
+    },
+    {
+      "path": "research/office-week1/document_folders.html",
+      "bytes": 176949
+    },
+    {
+      "path": "research/office-week1/excluded-offers.json",
+      "bytes": 235
+    },
+    {
+      "path": "research/office-week1/market.py",
+      "bytes": 13477
+    },
+    {
+      "path": "research/office-week1/clipboards.html",
+      "bytes": 172259
+    },
+    {
+      "path": "research/office-week1/laptop_stands.html",
+      "bytes": 167765
+    },
+    {
+      "path": "research/office-week1/save_notes.py",
+      "bytes": 9651
+    },
+    {
+      "path": "research/office-week1/mouse_pads.html",
+      "bytes": 174416
+    },
+    {
+      "path": "research/office-week1/erasers.html",
+      "bytes": 170268
+    },
+    {
+      "path": "research/office-week1/inspect.cjs",
+      "bytes": 1421
+    },
+    {
+      "path": "research/office-week1/binder_clips.html",
+      "bytes": 170673
+    },
+    {
+      "path": "research/office-week1/browser-inspection.json",
+      "bytes": 323836
+    },
+    {
+      "path": "research/office-week1/selected.json",
+      "bytes": 336861
+    },
+    {
+      "path": "research/office-week1/staplers.html",
+      "bytes": 174349
+    },
+    {
+      "path": "research/office-week1/market-observations.json",
+      "bytes": 41121
+    },
+    {
+      "path": "research/office-week1/paper_clips.html",
+      "bytes": 172387
+    },
+    {
+      "path": "research/office-week1/images.py",
+      "bytes": 2105
+    },
+    {
+      "path": "research/office-week1/guides.json",
+      "bytes": 24565
+    },
+    {
+      "path": "research/office-week1/cable_clips.html",
+      "bytes": 170464
+    },
+    {
+      "path": "research/office-week1/write_guides.py",
+      "bytes": 24448
+    },
+    {
+      "path": "research/office-week1/fix-inspection.cjs",
+      "bytes": 1177
+    },
+    {
+      "path": "research/office-week1/desk_organisers.html",
+      "bytes": 169956
+    },
+    {
+      "path": "research/office-week1/pencils.html",
+      "bytes": 172067
+    },
+    {
+      "path": "research/office-week1/notebooks.html",
+      "bytes": 176623
+    },
+    {
+      "path": "research/office-week1/letter_trays.html",
+      "bytes": 168699
+    },
+    {
+      "path": "research/office-week1/scissors.html",
+      "bytes": 174661
+    },
+    {
+      "path": "research/office-week1/markers.html",
+      "bytes": 175723
+    },
+    {
+      "path": "research/office-week1/catalogue-review.txt",
+      "bytes": 200485
+    },
+    {
+      "path": "research/office-week1/highlighters.html",
+      "bytes": 170800
+    },
+    {
+      "path": "research/office-week1/glue_sticks.html",
+      "bytes": 174350
+    },
+    {
+      "path": "research/office-week1/sharpeners.html",
+      "bytes": 169319
+    },
+    {
+      "path": "research/office-week1/sticky_notes.html",
+      "bytes": 172984
+    },
+    {
+      "path": "research/office-week1/staples.html",
+      "bytes": 171312
+    },
+    {
+      "path": "research/office-week1/qa-mobile.png",
+      "bytes": 71690
+    },
+    {
+      "path": "research/office-week1/detail-notes.json",
+      "bytes": 14032
+    },
+    {
+      "path": "research/office-week1/gel_pens.html",
+      "bytes": 174124
+    },
+    {
+      "path": "research/office-week1/ballpoint_pens.html",
+      "bytes": 173175
+    },
+    {
+      "path": "research/office-week1/jumia-access.json",
+      "bytes": 59368
+    },
+    {
+      "path": "research/office-week1/qa-desktop.png",
+      "bytes": 155661
+    },
+    {
+      "path": "research/office-week1/jumia_access.py",
+      "bytes": 955
+    },
+    {
+      "path": "research/office-week1/pen_holders.html",
+      "bytes": 170345
+    },
+    {
+      "path": "research/office-week1/rulers.html",
+      "bytes": 168768
+    }
+  ]
+}

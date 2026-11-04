@@ -1,0 +1,39 @@
+{
+  "result": "PASS",
+  "products": 250,
+  "days": {
+    "1": 50,
+    "2": 50,
+    "3": 50,
+    "4": 50,
+    "5": 50
+  },
+  "families": 25,
+  "main_images": 250,
+  "supplier_detail_pages": 25,
+  "conditional_freight": 19,
+  "unit_dimensional_scenarios": 5,
+  "carton_allocations": 1,
+  "weight_only_lower_bounds": 13,
+  "pending_freight": 231,
+  "priced_jumia_context_assignments": 250,
+  "distinct_indexed_observations": 48,
+  "verified_identical_jumia": 0,
+  "description_words_min": 161,
+  "description_words_max": 185,
+  "earlier_files_preserved": {
+    "fashion-display-product-listings.html": true,
+    "interior-designs-product-listings.html": true,
+    "electronics-week1-product-listings.html": true,
+    "kitchen-household-product-listings.html": true,
+    "electronics-product-listings.html": true,
+    "fashion-week1-product-listings.html": true,
+    "fashion-week1-product-hunt/data/products.json": true,
+    "electronics-product-hunt/data/products.json": true,
+    "electronics-week1-product-hunt/data/products.json": true,
+    "kitchen-household-product-hunt/data/products.json": true,
+    "interior-designs-product-hunt/data/products.json": true,
+    "fashion-display-product-hunt/data/products.json": true
+  },
+  "errors": []
+}
