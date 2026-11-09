@@ -1,0 +1,11 @@
+{
+  "attempted": 20,
+  "readable": 19,
+  "blocked": [
+    {
+      "id": 41,
+      "url": "https://detail.1688.com/offer/912211955417.html",
+      "result": "Captcha Interception;no selected-option facts extracted"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "checked": "2026-10-27",
+  "guide_url": "https://dechaser.com/china-to-nigeria-shipping/",
+  "retrieval": "Readable published guide chunks0and1;rate-tier context retained from preceding research",
+  "service": "Indicative normal-goods China–Nigeria consolidated air freight;sharp kitchen tools require explicit carrier acceptance",
+  "air_usd_kg": 20.5,
+  "clearing_ngn_kg": 1500,
+  "clearing_conflict": "Guidealso mentions1500–2500NGN/kg clearing;actual quoted service/rate may differ",
+  "guide_air_range_usd_kg": [
+    12.9,
+    20.5
+  ],
+  "guide_transit": "Normal7–10working days;not guaranteed dispatch or delivery",
+  "volumetric_formula": "max(actualkg,L×W×Hcm/6000)",
+  "basis": "Proportional consolidation allocation,not an individual parcel quote",
+  "scenario_usd_ngn": 1350,
+  "scenario_cny_usd": 0.15,
+  "scenario_cny_ngn": 202.5,
+  "fx_status": "Rounded editable assumptions,not a verified current payment rate;future-dated retrieved FX reference not adopted",
+  "conditional_allocations": 13,
+  "dimensional_scenarios": 5,
+  "weight_only_lower_bounds": 8,
+  "pending": 187,
+  "packing_rejections": [
+    "#31generic35g field not mapped to1–8piece options",
+    "#51implausible1×1×1cm/800g versus300g item",
+    "#81conflicting26g/34g",
+    "#121generic500g versus80–97g mitts;single/pair variants",
+    "#131generic300g spansshort/long,single/two andcanvas/PVC",
+    "#161loose6g/10g clip conflict;exportpackmissing"
+  ],
+  "exclusions": [
+    "Minimumweights/rounding",
+    "Additional protective/exportcartons andgrossweight",
+    "Repacking",
+    "China transport",
+    "Tax/VAT andunresolvedcustomsfees",
+    "Insurance",
+    "OnwarddeliverybeyondLagos"
+  ],
+  "safety": "No verified food-contact,heat-resistance,steelgrade,bladeconstruction ororigin certification;current carrier acceptance anddocumentation required"
+}

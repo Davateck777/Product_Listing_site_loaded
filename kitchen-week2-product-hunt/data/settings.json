@@ -1,0 +1,15 @@
+{
+  "author": "DAVE ADEX",
+  "checked": "2026-10-27",
+  "cny_ngn": 202.5,
+  "cny_usd": 0.15,
+  "usd_ngn": 1350,
+  "air_usd_kg": 20.5,
+  "clearing_ngn_kg": 1500,
+  "volumetric_divisor": 6000,
+  "freight_url": "https://dechaser.com/china-to-nigeria-shipping/",
+  "usd_fx_url": "https://www.forbes.com/advisor/money-transfer/currency-converter/usd-ngn/",
+  "cny_fx_url": "https://www.forbes.com/advisor/money-transfer/currency-converter/cny-usd/",
+  "fx_reference_date": "Scenario only; not a verified current payment rate",
+  "fx_caveat": "Rounded editable scenario USD/NGN1350,CNY/USD0.15;not verified current payment FX. Prior retrieved FX pages were future-dated relative to the session and are not adopted. Re-quote before payment."
+}
