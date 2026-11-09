@@ -1,0 +1,102 @@
+{
+  "card_readers": [
+    "a small memory-card accessory for moving compatible files between a card and a supported computer or phone, with the connector depending on the chosen version",
+    "It can make everyday photo, document and music transfers simpler without relying on mobile data. A compact reader is useful for students, photographers and anyone keeping an offline copy of important files. Using the right connection also avoids the inconvenience of carrying a larger computer just to access a card.",
+    "Check the actual SD or microSD slot, USB plug and phone OTG support before choosing. A USB-C shape alone does not establish transfer speed, and a source title is not a tested capacity rating. A memory card is not assumed included. Back up important files and safely eject the reader before disconnecting it."
+  ],
+  "hdmi_cables": [
+    "a display-connection accessory intended to link compatible equipment, such as a computer, monitor or television, using the ports and direction offered by its selected version",
+    "It can help create a clearer study or work setup by putting compatible content on a separate screen. A suitable cable can also make presentations and home viewing easier to organise. Choosing the correct connection first avoids an adapter that physically fits one device but cannot carry the signal it needs.",
+    "Confirm both connector types, cable length, signal direction and supported resolution at the required refresh rate. USB-C video may require DisplayPort Alternate Mode; a USB-to-HDMI graphics adapter may need drivers. Optical cables can be directional. No audio, gaming, high-refresh or universal phone compatibility claim is independently tested. This is not a television or monitor."
+  ],
+  "ethernet_cables": [
+    "a wired network lead for connecting compatible RJ45 equipment, with the stated cable class, construction and length depending on the specific option selected from the supplier",
+    "A suitable wired connection can support an orderly home-office, gaming or study arrangement where a network socket is available. It also gives you a practical alternative when wireless reception is inconvenient. Matching the length to your route helps reduce unnecessary coils across a desk or floor without stretching the cable.",
+    "Check the ordered length, conductor material and tested category rather than relying on a category word in the title. Copper-clad aluminium is not the same as solid copper. Cable labels alone do not prove an internet speed or PoE suitability. Keep indoor leads away from water, sharp bends and walkways; internet service and a router are separate."
+  ],
+  "network_adapters": [
+    "a computer-network accessory that adds the connection described by its particular version, either wireless reception or an Ethernet interface through a compatible USB port",
+    "It can be useful when a laptop lacks the network connection you need or an existing connection is unreliable. A compact adapter is convenient for a student bag or a shared workspace. Choosing a version that suits the operating system makes the setup more practical than assuming every USB network device behaves identically.",
+    "Check whether the selected unit is Wi-Fi or wired Ethernet, then verify chipset, operating-system drivers and supported bands or link rate. Advertised link rates are not guaranteed internet speeds. Wi-Fi adapters still need a network, while Ethernet versions need a cable. Confirm any set-top-box-specific version separately; no universal driver-free claim is established."
+  ],
+  "usb_adapters": [
+    "a compact connection accessory for the USB plug or socket combination described by the chosen option, rather than a complete charger, storage device or computer",
+    "It may help you keep using a suitable cable or peripheral when the available device port has changed. Its small form is convenient for a desk, travel pouch or study bag. Matching the connector direction and intended task helps avoid buying an adapter that looks right but only supports a different connection.",
+    "Confirm the male and female ends, data capability, charging limits and OTG support for your device. A USB-C connector does not automatically provide video output, high-speed data or USB Power Delivery. A hub option differs from a simple converter. Check device compatibility before use and do not force a loose, bent or unusually hot connection."
+  ],
+  "ssd_enclosures": [
+    "an enclosure or conversion accessory for a compatible computer drive, with drive format and external connection depending on the exact version offered by the supplier",
+    "It can help put a suitable spare drive back into use for carrying documents, media or a secondary backup. An enclosure also makes a compatible drive easier to handle than a loose board. Selecting the correct interface at the start avoids paying for a housing that cannot connect to the drive you already own.",
+    "Check whether your drive is SATA, mSATA or M.2, its supported length and whether an M.2 unit uses SATA or NVMe. These interfaces are not interchangeable. A conversion board is not necessarily a complete enclosure. A storage drive, cable and power adapter are not assumed included. Safely eject storage and keep a separate backup of important data."
+  ],
+  "laptop_chargers": [
+    "a replacement power adapter option for a compatible laptop, intended to supply the voltage, connector and power level specified for the selected model rather than every laptop",
+    "A correctly matched replacement can make a home desk or study area usable again when the original supply is missing or damaged. Keeping an appropriate spare can also reduce the inconvenience of moving one adapter between locations. Compatibility matters more than a familiar laptop name or an attractive wattage printed in a title.",
+    "Check the laptop label, required voltage, polarity, connector measurements and minimum wattage. USB-C versions need the appropriate PD profile and cable; magnetic connectors require an exact match. Compatible-device names do not identify the adapter manufacturer. Confirm safe mains input and a suitable Nigerian plug. Stop using damaged or overheating equipment; no independent electrical-safety certification is established."
+  ],
+  "extension_sockets": [
+    "a mains socket-sharing or extension accessory for a compatible power outlet, with socket count, cable and optional USB connections determined by the specific version selected",
+    "It can help organise a modest collection of suitable low-power devices around a desk or entertainment area. Having outlets within reach can reduce awkward cable routing and make everyday connections easier to manage. A correctly chosen plug style is especially important where imported devices and local Nigerian sockets use different physical arrangements.",
+    "Confirm rated voltage, total current, cable size, earthing and fuse provision before use. A USB socket does not establish fast charging, and a universal-looking outlet does not certify safe contact. Do not assume surge protection. Avoid overloading, daisy-chaining or using high-power heating appliances without an appropriate verified rating. Keep the unit dry and replace damaged leads."
+  ],
+  "travel_adapters": [
+    "a physical plug-conversion accessory for the inlet and outlet arrangement offered by its selected version, intended for a compatible appliance when travelling between different socket systems",
+    "It may make a suitable device easier to connect during an overseas trip or when using an imported appliance. A compact adapter is convenient to keep with travel cables. Checking the destination socket before buying is more useful than assuming that every product described as universal will fit safely in every country.",
+    "This is not a voltage converter and does not make an incompatible appliance safe on another supply. Check destination socket type, appliance voltage range, current limit, earthing and fuse requirements. Nigeria commonly uses Type G or D arrangements; Swiss, Italian, American and Australian options serve different destinations. Confirm the actual inlet direction and avoid heavy loads or loose connections."
+  ],
+  "tv_remotes": [
+    "a replacement entertainment-device controller intended for the compatible equipment and button arrangement described by its selected version, not a guaranteed universal remote for all televisions",
+    "An appropriate replacement can restore convenient access to everyday controls when the old handset is lost or damaged. Keeping a compatible controller near the viewing area may also be easier than relying on physical buttons on the television. Matching the original remote carefully helps avoid missing functions or an unusable pairing process.",
+    "Compare the exact remote model, television model and button layout before choosing. Infrared, Bluetooth and USB-receiver controllers work differently; voice functions may need pairing or a supported platform. A compatible TV brand is not the remote manufacturer. Batteries, a USB receiver and setup instructions are not assumed included unless confirmed. No universal compatibility or original-brand authenticity claim is established."
+  ],
+  "tv_mounts": [
+    "a display wall-mounting accessory for a compatible television or monitor, with fixed, extending and swivelling designs offered as separate options rather than one universal installation",
+    "A suitable wall mount can free surface space and help position a screen for a more comfortable room arrangement. It may be useful where a small living area or workstation needs a tidy layout. Choosing the correct bracket also helps avoid paying for movement features that your room or wall cannot safely accommodate.",
+    "Check the display weight, VESA hole spacing, bracket rating and clearance for cables. Screen-size ranges alone do not prove compatibility. Wall material and fixings matter; professional installation is advisable where the substrate or anchoring method is uncertain. Do not assume the supplied screws suit every wall. No independent load certification or anti-theft protection is established."
+  ],
+  "radios": [
+    "a portable audio receiver or radio-player option for the functions listed by its selected version, with tuning bands, power source and extra playback features varying between models",
+    "It can give you a simple way to listen to available broadcasts without using a smartphone for every session. A portable design is convenient around the home or while moving between rooms. For Nigerian listeners, checking locally available stations and the actual power arrangement is more useful than relying on a long list of headline features.",
+    "Confirm supported FM, AM or shortwave bands, tuning method, speaker or earphone use and charging requirements. Solar, hand-crank and Bluetooth functions apply only to the relevant option. Reception depends on location and aerial conditions. Battery capacity and run time are not independently tested. A radio is not a guaranteed emergency communication service, and accessories may differ."
+  ],
+  "multimeters": [
+    "a handheld electrical measuring instrument option for the functions described by the supplier, intended to help a suitably competent user inspect compatible circuits within verified instrument limits",
+    "An appropriate meter can make basic electronics checks more organised than guessing whether a low-voltage component or supply is behaving as expected. A readable display and a suitable measurement range help with practical troubleshooting. The useful choice depends on the task and the meter rating, not simply the number of modes advertised.",
+    "Check measurement ranges, probe condition, fuse protection and the genuine safety category before use. A source title does not establish safe mains testing. Insulation testers differ from ordinary multimeters. Never measure current across a supply or select resistance on an energised circuit. Battery supply may vary; no calibration certificate or independent electrical-safety approval is established here."
+  ],
+  "soldering_tools": [
+    "a soldering-tool option for suitable electronics work, with power source, temperature control and kit contents depending on the precise configuration selected rather than every pictured accessory",
+    "It can help a competent adult make or repair appropriate electronic joints with more control than improvised heating methods. A compact tool may be practical for occasional device work where the required technique and safety precautions are understood. Matching the tip, power and supply arrangement to the job is more useful than buying by wattage alone.",
+    "Confirm the mains or USB supply, rated power, temperature-control method and exact included pieces. A complete kit costs differently from a bare iron or replacement tip. Work in a ventilated area with eye protection and a stable heatproof stand. Hot tips cause burns; keep them away from cables and children. Never solder powered equipment or assume the handle is electrically certified."
+  ],
+  "precision_tools": [
+    "a small-driver or bit-set option for compatible screws in everyday devices, with handle style, tip shapes and supplied piece count determined by the selected configuration",
+    "It can make simple screw access more convenient when the correct bit is available, especially for small housings and accessories. Keeping suitable tips together also reduces the frustration of searching for an oversized household screwdriver. The right fit helps you work more neatly without forcing a bit that damages a small screw head.",
+    "Check actual bit sizes, screw types and included count, rather than relying only on a kit title. These are not assumed electrically insulated tools. Disconnect equipment and remove accessible batteries before appropriate work; some devices should be serviced professionally. Avoid opening swollen batteries or live power supplies. Magnetic, anti-static and hardened-steel claims need confirmation, and small bits require safe storage."
+  ],
+  "usb_testers": [
+    "a connection-test or USB measurement accessory for the task described by its chosen model, with cable-continuity and charging-meter versions serving different purposes rather than interchangeable measurements",
+    "A suitable instrument can help you understand whether a compatible cable connects correctly or how a supported USB setup behaves during charging. That can be useful when comparing everyday accessories without guessing from a charging icon alone. Choosing the relevant instrument first avoids expecting a continuity tester to measure charging power or a basic meter to diagnose every fault.",
+    "Check supported connector types, voltage and current limits, display units and any charging-protocol functions. A displayed capacity reading is not automatically a certified battery-capacity test. Do not connect to mains or energised network/PoE wiring without a verified rating. Advanced protocol testers differ from simple USB meters. No calibration, laboratory accuracy or universal fast-charge compatibility is independently established."
+  ],
+  "router_ups": [
+    "a compact DC backup-power option for a compatible router or similar low-voltage device, with output voltage, connector, capacity and any PoE function depending on the selected configuration",
+    "It may help keep an appropriate home internet connection powered through a short interruption, an everyday concern for many Nigerian households and home workers. A compact unit can also simplify a small network setup compared with a much larger backup system. Its usefulness depends on the complete device load and a correctly matched output.",
+    "Confirm voltage, polarity, plug dimensions, maximum current and whether any PoE output is passive or standards-based. Backup duration is not verified and depends on usable battery capacity, efficiency and load. A low starting price may refer only to a charger or accessory. Lithium-battery cargo needs carrier approval and suitable documentation; this is not a mains inverter or guaranteed all-night supply."
+  ],
+  "wifi_routers": [
+    "a network-sharing or wireless-coverage device option for the role described by its particular model, with SIM routers, ordinary routers and range extenders operating differently from one another",
+    "It can help arrange a suitable internet connection for study, home working or everyday browsing where the required service is available. Choosing the right device role avoids buying an extender when you actually need a mobile-data router. For Nigerian use, local network compatibility and dependable power arrangements matter more than an impressive headline speed.",
+    "Confirm the actual device role, cellular LTE bands where relevant, local SIM support, Wi-Fi band and power input. A repeater needs an existing network; it does not create free internet. Advertised wireless speed is not guaranteed data throughput. SIM cards, subscriptions and data plans are separate unless confirmed. Battery-powered options need approved freight; no local radio certification or network-unlock guarantee is established."
+  ],
+  "network_switches": [
+    "a wired-network expansion accessory or connection-switching option for compatible Ethernet equipment, with port count, link rate and active switching functions depending on the precise version selected",
+    "A suitable active switch can help connect several wired devices around a small office, study area or home entertainment setup. It may make cable organisation easier where an existing router has too few suitable ports. Checking whether the product is an active switch or a simple manual sharing adapter avoids expecting both to provide the same network behaviour.",
+    "Confirm active or passive operation, required power, usable port count and whether links are100Mbps or gigabit. A splitter does not automatically supply two simultaneous independent connections. PoE support must specify the exact standard, voltage and power budget; not every switch powers cameras. Confirm the adapter plug and rating. Cables, internet service and installation hardware are not assumed included."
+  ],
+  "doorbells": [
+    "a wireless visitor-alert or chime accessory for the use described by its selected version, with push-button, sensor and receiver arrangements varying between the available configurations",
+    "It can help make a visitor or a suitable entrance movement easier to notice without adding a long signal cable through the room. A simple chime may be useful in a home, small shop or reception space. Selecting the right trigger type and receiver location is more important than assuming every wireless bell works in the same way.",
+    "Check whether the trigger is a button or motion sensor, receiver count, operating voltage and battery needs. A self-powered button does not mean the receiver needs no power. Walls and interference affect range; a title is not a tested coverage guarantee. Outdoor weather protection and volume require confirmation. This is not a medical, emergency, security-monitoring or guaranteed accessibility service."
+  ]
+}

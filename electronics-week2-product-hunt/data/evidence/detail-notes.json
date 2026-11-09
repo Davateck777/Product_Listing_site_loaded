@@ -1,0 +1,237 @@
+{
+  "1": {
+    "weight_g": 7,
+    "packing_cm": null,
+    "selected_variant": "Black SD+TF USB2.0 reader",
+    "facts": "ABS external SD/TF card reader; USB2.0 is listed in the attributes. USB3.0 and USB-C adapter options are separate.",
+    "note": "USB2.0 reader7g; USB3.0 reader8g; adapter3g. Starting¥0.20 may refer to cheaper adapter,not selected reader. No variant price correction invented. Weight-only lower bound; no export volume. TitleUSB3.0 is not a verified speed.",
+    "source_url": "https://detail.1688.com/offer/949747766307.html",
+    "checked": "2026-10-27"
+  },
+  "11": {
+    "weight_g": 100,
+    "packing_cm": [
+      18,
+      16,
+      2
+    ],
+    "selected_variant": "Black USB-C to HDTV cable option",
+    "facts": "PVC cable with HDMI-style display connection; source lists2m and nickel-plated connectors,with short-adapter and metal versions separate.",
+    "note": "Packed100g and18×16×2cm per listed style; bare attribute60g is not substituted. International rendering showsUSD,so retain catalogueCNY9.00 starting observation,not a converted option quote. Confirm USB-C video support and actual length.",
+    "source_url": "https://detail.1688.com/offer/1099800140513.html",
+    "checked": "2026-10-27"
+  },
+  "21": {
+    "weight_g": 40,
+    "packing_cm": [
+      5,
+      5,
+      5
+    ],
+    "selected_variant": "Grey1m RJ45 indoor patch lead",
+    "facts": "Eight-core copper-clad-aluminium RJ45 lead; source attributes describe indoor use and100M data transfer.",
+    "note": "1m variant¥1.25,40g,5×5×5cm. Longer variants differ. TitleCat5e versus category5 attributes and500packing-list field unresolved; no certified category or PoE claim.",
+    "source_url": "https://detail.1688.com/offer/982547475365.html",
+    "checked": "2026-10-27",
+    "source_price_cny": 1.25
+  },
+  "51": {
+    "weight_g": 300,
+    "packing_cm": null,
+    "selected_variant": "Grey2.5-inch USB3.0 metal drive enclosure",
+    "facts": "Aluminium-alloy enclosure for a compatible2.5-inch drive; source lists12.7×7.5×1.2cm item dimensions.",
+    "note": "USB3.0 grey/black¥13; USB2.0 black¥9.80. Generic packing300g applies to described enclosure; export volume unknown. Drive not assumed included. Item dimensions are not protected packing.",
+    "source_url": "https://detail.1688.com/offer/700441460860.html",
+    "checked": "2026-10-27",
+    "source_price_cny": 13,
+    "dispatch": "Supplier lists ready stock,1–3day fastest dispatch and a48h badge; current selected-option stock/quantity unverified"
+  },
+  "61": {
+    "weight_g": 280,
+    "packing_cm": null,
+    "selected_variant": "19V2.37A45W option,3.0×1.1mm tip;plug style pending",
+    "facts": "Non-original replacement laptop adapter; supplier lists100–240V input and a19V2.37A45W selected specification.",
+    "note": "Title65W conflicts with selected45W specification. Use45W identity,not a65W guarantee. Packing280g versus bare188g; volume pending. Match voltage,polarity,tip and device requirement; Acer is compatibility,not manufacturer.",
+    "source_url": "https://detail.1688.com/offer/1004770810019.html",
+    "checked": "2026-10-27",
+    "source_price_cny": 20
+  },
+  "71": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "UK one-to-four socket adapter,USB-free option",
+    "facts": "Plug-in multi-socket adapter with three/four-way and USB/PD options; exact UK four-way version must be selected.",
+    "note": "No packing data found in inspected chunk. International page showsUSD prices; retain original catalogue CNY starting price and selected-price pending. CE text is not validated certification.48h promise limited to up to2items.",
+    "source_url": "https://detail.1688.com/offer/831306988424.html",
+    "checked": "2026-10-27",
+    "dispatch": "Detail page limits48h dispatch promise to orders up to2items; larger quantities require a fresh commitment"
+  },
+  "81": {
+    "weight_g": 100,
+    "packing_cm": [
+      10,
+      10,
+      10
+    ],
+    "selected_variant": "French-to-Swiss travel adapter",
+    "facts": "Source lists a French-to-Swiss plug converter;250V/10A are supplier ratings,not independent test results.",
+    "note": "100g and10×10×10cm planning pack. This changes plug shape,not voltage. Source promises up to10days despite a short estimated dispatch; not a priority quick-dispatch item. Original brand fieldLJ supported.",
+    "source_url": "https://detail.1688.com/offer/956727689599.html",
+    "checked": "2026-10-27",
+    "brand": "LJ",
+    "brand_original_field": "LJ",
+    "dispatch": "Detail page: estimated7h for3+items but promised dispatch up to10days; do not advertise as guaranteed quick dispatch"
+  },
+  "101": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "L-WH02 fixed32–65inch bracket;pack style pending",
+    "facts": "Iron wall-mounted TV bracket family withL-WH01/L-WH02 and longer variants. VESA pattern,load and wall fixings require confirmation.",
+    "note": "Generic650g spans many bracket sizes and several protective-pack styles; no selected-style mass mapping. Freight pending rather than propagating a generic value. Chinese brand not translated into an English brand.",
+    "source_url": "https://detail.1688.com/offer/674910250405.html",
+    "checked": "2026-10-27"
+  },
+  "121": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Yellow830D buzzer option with English/battery selection to confirm",
+    "facts": "Digital test meter with buzzer-style option and supplier-listed probes/battery; professionally appropriate instructions and certified ratings must be checked.",
+    "note": "Black option sold out; yellow appears available but current stock unverified. Packing300g versus SKU0.3g contradiction.9V battery included/chemistry unresolved; carrier service pending. NoCAT safety or anti-burn guarantee.",
+    "source_url": "https://detail.1688.com/offer/733673495478.html",
+    "checked": "2026-10-27",
+    "observed_weight_g": 300,
+    "freight_hold": true
+  },
+  "141": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Mini6-piece precision driver set",
+    "facts": "Small precision screwdriver family with6/11/16piece variants; supplier marks the tools non-insulated and non-magnetic.",
+    "note": "Generic45weight field has no unit or selected-set mapping; no packing data. Freight pending. Mini6piece¥1.90; regular6piece¥3.50. Use only on isolated equipment.",
+    "source_url": "https://detail.1688.com/offer/576778878465.html",
+    "checked": "2026-10-27",
+    "source_price_cny": 1.9
+  },
+  "161": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "QX-600-2 UPS body,not charger-only option",
+    "facts": "Mini DC UPS family offers5V,9V and12V outputs with separate lithium-battery configurations and charger-only accessory.",
+    "note": "UPS body selected price¥85,not¥15 charger-only starting option. Body table380g,11.4×7.3×2.4cm conflicts with generic500g and may be bare dimensions. Lithium-specific service,SDS/UN38.3 and export packing/acceptance required; no normal-goods freight assigned. Runtime not tested.",
+    "source_url": "https://detail.1688.com/offer/820867593122.html",
+    "checked": "2026-10-27",
+    "source_price_cny": 85,
+    "observed_weight_g": 380,
+    "observed_dimensions_cm": [
+      11.4,
+      7.3,
+      2.4
+    ],
+    "freight_hold": true
+  },
+  "31": {
+    "weight_g": 7,
+    "packing_cm": null,
+    "selected_variant": "7601 chipset option;device/driver compatibility pending",
+    "facts": "USB wireless adapter family includes7601,8188,5370 and other chipset variants; selected operating-system compatibility needs checking.",
+    "note": "7601 variant7g versus bare6g attribute. Reject1×1×1cm as credible protected export packing. Weight-only lower bound. DVB-T2-specific andPC versions differ;2.4/5.8GHz and802.11AC fields conflict with150Mbps claims. Do not guarantee dual-band/driver-free use.",
+    "source_url": "https://detail.1688.com/offer/834976133938.html",
+    "checked": "2026-10-27"
+  },
+  "41": {
+    "weight_g": 4,
+    "packing_cm": null,
+    "selected_variant": "Silver XYW21 adapter",
+    "facts": "XYW21 compact USB/USB-C adapter available in silver or black; connector direction and data/charge functions need matching to the device.",
+    "note": "Each colour4g,no dimensions. Weight-only lower bound; no branded Apple manufacture or universal PD compatibility implied. Original brand Chinese,soOther.50/100piece order thresholds differ.",
+    "source_url": "https://detail.1688.com/offer/753357503296.html",
+    "checked": "2026-10-27",
+    "source_price_cny": 0.42
+  },
+  "91": {
+    "weight_g": 70,
+    "packing_cm": null,
+    "selected_variant": "YI02B-style replacement remote;matching key layout required",
+    "facts": "Replacement TV controller whose supplier asks buyers to match the button layout before use.",
+    "note": "Packing70g,no dimensions; batteries supplied unconfirmed. Weight-only lower bound if accepted as battery-free. Konka is compatibility,not original manufacturer. Source says48h dispatch,not guaranteed international delivery.",
+    "source_url": "https://detail.1688.com/offer/776421440000.html",
+    "checked": "2026-10-27",
+    "source_price_cny": 4.5
+  },
+  "111": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "Black727 pocket FM radio",
+    "facts": "ABS single-band FM radio with digital display; supplier lists80×28×20mm item dimensions and an earphone/manual packing list.",
+    "note": "Packing56g,12×8×2.4cm; bare weight also56g. Battery chemistry/inclusion unresolved,so no normal-goods freight. Source promises up to10days; not a priority quick-dispatch choice. OEM is not a consumer brand.",
+    "source_url": "https://detail.1688.com/offer/763376963175.html",
+    "checked": "2026-10-27",
+    "observed_weight_g": 56,
+    "observed_dimensions_cm": [
+      12,
+      8,
+      2.4
+    ],
+    "freight_hold": true,
+    "dispatch": "Detail page estimates9h but promises dispatch up to10days; current selected stock unverified"
+  },
+  "131": {
+    "weight_g": 200,
+    "packing_cm": null,
+    "selected_variant": "Digital80W standard mains-powered iron,not accessory kit",
+    "facts": "Digital temperature-adjustable ceramic-heater soldering-iron family; mains,USB and multi-piece kit options are separate.",
+    "note": "Selected standard digital iron200g; kits400–1000g. No dimensions for protected packing. Weight-only lower bound for mains-only option,not rechargeable version. Catalogue¥13.50 may be a different option; digital option CNY quote pending. Source brand originalDELIXI ELECTRIC supported; authenticity not certified.",
+    "source_url": "https://detail.1688.com/offer/924615189456.html",
+    "checked": "2026-10-27",
+    "brand": "DELIXI ELECTRIC",
+    "brand_original_field": "DELIXI ELECTRIC/德力西电气"
+  },
+  "151": {
+    "weight_g": 200,
+    "packing_cm": null,
+    "selected_variant": "M726AT1/M726AT2 tester with PE bag and manual",
+    "facts": "Network andUSB-cable continuity-test instrument; supplier lists tester and manual,with a bare-unit sale configuration.",
+    "note": "200g,no protected dimensions. Notice explicitly says bare tester+PE bag+manual; full retail packaging costs extra. Weight-only lower bound. PoE/live-network capability and battery inclusion need verification; do not test energised wiring without a certified rating. EnglishHengli appears on translated page only,not proof of original English brand.",
+    "source_url": "https://detail.1688.com/offer/628543167699.html",
+    "checked": "2026-10-27"
+  },
+  "171": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "E5783-Plus battery-powered LTE router",
+    "facts": "ABS SIM-capable portable4G router with2.4GHzWi-Fi,USB-C and battery power; cellular band configuration must be confirmed.",
+    "note": "Packed205g,15×10×4cm. Battery service and local radio approval unresolved; no normal-goods fee. Original titleVEMO conflicts with Neutral brand attribute,soOther. Data SIM and subscription not assumed included.1–3day dispatch is a supplier claim.",
+    "source_url": "https://detail.1688.com/offer/681215394669.html",
+    "checked": "2026-10-27",
+    "observed_weight_g": 205,
+    "observed_dimensions_cm": [
+      15,
+      10,
+      4
+    ],
+    "freight_hold": true
+  },
+  "181": {
+    "weight_g": 300,
+    "packing_cm": null,
+    "selected_variant": "S105C five-port100Mbps switch",
+    "facts": "Desktop five-port Ethernet switch; supplier attributes specify100Mbps and82×49×21mm item size.",
+    "note": "Packing300g,no protected dimensions. Weight-only lower bound. Not a gigabit/PoE claim. Mains feed and adapter fields are internally inconsistent; confirm actual power input. Source promises up to5days,not immediate dispatch.",
+    "source_url": "https://detail.1688.com/offer/681696051887.html",
+    "checked": "2026-10-27",
+    "brand": "MERCURY",
+    "brand_original_field": "MERCURY in original Chinese source title; attribute水星",
+    "dispatch": "Detail page estimates16h for3+units but promises up to5days; current stock/quantity unverified"
+  },
+  "191": {
+    "weight_g": null,
+    "packing_cm": null,
+    "selected_variant": "A-813 wireless36-tune doorbell",
+    "facts": "Battery-operated wireless bell with36tone options; receiver uses twoAA cells,while the push transmitter lists a23A12V cell.",
+    "note": "Packing80g,no dimensions. Transmitter battery included per source; chemistry and carrier approval unresolved,so no freight fee assigned. ReceiverAA cells not included. Source ships random colours. Watson appears on translated page; original English brand not verified. Not an emergency or medical service.",
+    "source_url": "https://detail.1688.com/offer/581518659834.html",
+    "checked": "2026-10-27",
+    "observed_weight_g": 80,
+    "freight_hold": true
+  }
+}

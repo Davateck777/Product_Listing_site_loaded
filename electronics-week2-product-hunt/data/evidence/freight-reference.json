@@ -1,0 +1,17 @@
+{
+  "source": "https://dechaser.com/china-to-nigeria-shipping/",
+  "dimensional_source": "https://dechaser.com/shipping-from-china-to-nigeria/",
+  "normal_goods_rate_usd_kg": 20.5,
+  "weight_tier": "1\u201310kg",
+  "clearing_ngn_kg": 1500,
+  "published_normal_transit": "7\u201310workingdays;not supplier dispatch or delivery guarantee",
+  "formula": "max(supplier actual kg,protected package LxWxHcm/6000) x (20.50 x planning USDNGN +1500)",
+  "limits": "Proportional scenario,not isolated-parcel quote. Nine weight-only lower bounds; three dimensional scenarios. Protected export packing,minimums,rounding,other fees and current quote/acceptance unresolved. No battery-specific price inferred.",
+  "fx_scenario": {
+    "usd_ngn": 1350,
+    "cny_usd": 0.15,
+    "cny_ngn": 202.5,
+    "status": "Rounded editable planning assumptions;not verified current rates"
+  },
+  "date_conflict": "Retrieved Forbes pages display2026-11-09,after session date2026-10-27;not accepted as current FX."
+}

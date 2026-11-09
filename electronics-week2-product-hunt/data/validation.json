@@ -1,0 +1,23 @@
+{
+  "result": "PASS",
+  "products": 200,
+  "days": 5,
+  "per_day": 40,
+  "families": 20,
+  "main_images": 200,
+  "supplier_detail_pages": 20,
+  "conditional_freight": 12,
+  "weight_only_lower_bounds": 9,
+  "dimensional_scenarios": 3,
+  "pending_freight": 188,
+  "indexed_observations": 28,
+  "priced_context_assignments": 130,
+  "pending_jumia_prices": 70,
+  "verified_identical_jumia": 0,
+  "description_words_min": 151,
+  "description_words_max": 171,
+  "earlier_files_checked": 162,
+  "earlier_files_changed": [],
+  "errors": [],
+  "scope": "Structural and arithmetic QA only; does not certify authenticity,safety,stock,dispatch or live-price completeness"
+}
