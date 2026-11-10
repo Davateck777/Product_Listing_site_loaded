@@ -1,0 +1,11 @@
+{
+  "source_floor_cny": 5.2,
+  "shipping_floor_ngn": 2000,
+  "usd_ngn": 1350,
+  "cny_usd": 0.15,
+  "markup": 1.25,
+  "air_usd_kg": 20.5,
+  "clearing_ngn_kg": 1500,
+  "divisor": 6000,
+  "checked": "2026-10-27"
+}

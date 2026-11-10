@@ -1,0 +1,9 @@
+"""VALIDATION MODULE — reproducible structural/evidence/preservation gates."""
+from pathlib import Path
+import json,hashlib,collections
+R=Path(__file__).resolve().parents[1];rows=json.loads((R/'data/products.json').read_text());old=set(json.loads((R/'data/evidence/excluded-earlier-interiors.json').read_text()));checks=[]
+def check(name,condition):
+ checks.append(dict(check=name,passed=bool(condition)));assert condition,name
+check('200 offers',len(rows)==200);check('5 days of40',collections.Counter(x['day'] for x in rows)=={i:40 for i in range(1,6)});check('Unique new offer URLs',len({r['url'] for r in rows})==200 and not old.intersection(r['url'] for r in rows));check('English names',all(r['name'].isascii() and r['name'] for r in rows));check('Correct category',all(r['category']=='Interior Designs' for r in rows));check('Exactly200 main images',len(list((R/'assets/images').glob('*-main.jpg')))==200);check('No image errors',all('error' not in r['image_record'] for r in rows));check('Descriptions have3 sections',all(len(r['description'])==3 for r in rows));check('No freight borrowed',all(r['freight_ngn'] is None or r['detail_evidence'].get('weight_g') for r in rows));check('200 exact-name Jumia attempts',len(json.loads((R/'data/evidence/jumia-access.json').read_text()))==200)
+f=R.parent/'interiors-week2-product-listings.html';s=f.read_text();check('Standalone200 embedded images',s.count('data:image/jpeg;base64,')==200);check('Valid doctype',s.lower().startswith('<!doctype html>'));check('Author present','DAVE ADEX' in s);check('Proposal disclosures','not a former price' in s);check('Earlier catalogues unchanged',all(hashlib.sha256((R.parent/p).read_bytes()).hexdigest()==h for p,h in json.loads((R/'data/evidence/preserved-catalogues-sha256.json').read_text()).items()))
+(R/'data/validation.json').write_text(json.dumps(checks,indent=2));print('PASS',len(checks),'structural,evidence andpreservation checks')

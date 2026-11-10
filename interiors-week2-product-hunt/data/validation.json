@@ -1,0 +1,62 @@
+[
+  {
+    "check": "200 offers",
+    "passed": true
+  },
+  {
+    "check": "5 days of40",
+    "passed": true
+  },
+  {
+    "check": "Unique new offer URLs",
+    "passed": true
+  },
+  {
+    "check": "English names",
+    "passed": true
+  },
+  {
+    "check": "Correct category",
+    "passed": true
+  },
+  {
+    "check": "Exactly200 main images",
+    "passed": true
+  },
+  {
+    "check": "No image errors",
+    "passed": true
+  },
+  {
+    "check": "Descriptions have3 sections",
+    "passed": true
+  },
+  {
+    "check": "No freight borrowed",
+    "passed": true
+  },
+  {
+    "check": "200 exact-name Jumia attempts",
+    "passed": true
+  },
+  {
+    "check": "Standalone200 embedded images",
+    "passed": true
+  },
+  {
+    "check": "Valid doctype",
+    "passed": true
+  },
+  {
+    "check": "Author present",
+    "passed": true
+  },
+  {
+    "check": "Proposal disclosures",
+    "passed": true
+  },
+  {
+    "check": "Earlier catalogues unchanged",
+    "passed": true
+  }
+]

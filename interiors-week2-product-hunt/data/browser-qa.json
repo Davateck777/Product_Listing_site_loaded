@@ -1,0 +1,53 @@
+{
+  "checks": [
+    {
+      "check": "200 rendered cards",
+      "passed": true
+    },
+    {
+      "check": "Day1:40 visible cards",
+      "passed": true
+    },
+    {
+      "check": "Day2:40 visible cards",
+      "passed": true
+    },
+    {
+      "check": "Day3:40 visible cards",
+      "passed": true
+    },
+    {
+      "check": "Day4:40 visible cards",
+      "passed": true
+    },
+    {
+      "check": "Day5:40 visible cards",
+      "passed": true
+    },
+    {
+      "check": "Search across all days",
+      "passed": true
+    },
+    {
+      "check": "Required buyer headings",
+      "passed": true
+    },
+    {
+      "check": "Override minimums",
+      "passed": true
+    },
+    {
+      "check": "200 valid embedded images",
+      "passed": true
+    },
+    {
+      "check": "Mobile no horizontal overflow",
+      "passed": true
+    },
+    {
+      "check": "No browser script errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

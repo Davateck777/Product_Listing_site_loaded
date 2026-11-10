@@ -1,0 +1,12 @@
+{
+  "url": "https://dechaser.com/china-to-nigeria-shipping/",
+  "checked": "2026-10-27",
+  "published_normal_1_to_10kg_usd_per_kg": 20.5,
+  "published_clearing_ngn_per_kg": 1500,
+  "volumetric_divisor": 6000,
+  "planning_usd_ngn": 1350,
+  "planning_cny_usd": 0.15,
+  "fx_status": "Rounded editable planning scenarios,not verified current payment rates. Carrier applies its own exchange rate.",
+  "basis": "Allocate normal-cargo rate within a consolidated1\u201310kg batch;do not treat fractional item allocation as a bookable standalone parcel quote. Carrier minimums,rounding,protected dimensions,China inland freight,insurance,Nigerian duties,taxes andlast-mile excluded unless separately confirmed. Weight-only figures are lower bounds,not full freight estimates.",
+  "source_extract": "Normal1\u201310kgUSD20.50/kg+NGN1500/kg.11\u201319kgUSD16.98;20kg+office pickupUSD12.90. Rate card indicative;re-quote before payment."
+}
